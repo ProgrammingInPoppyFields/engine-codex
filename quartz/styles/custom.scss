@@ -106,7 +106,7 @@ body:not([data-slug="index"]).sidebar-collapsed #quartz-body {
     max-width: 40vw;
     min-width: 0;
     overflow-y: auto;
-    background: rgba(20, 20, 20, 0.85);
+    background: rgba(30, 30, 30, 0.7);
     backdrop-filter: blur(24px);
     -webkit-backdrop-filter: blur(24px);
     transition: width 0.3s ease, max-width 0.3s ease, padding 0.3s ease, opacity 0.3s ease;

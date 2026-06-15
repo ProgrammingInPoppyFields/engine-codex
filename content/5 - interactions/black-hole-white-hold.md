@@ -1,5 +1,5 @@
 ---
-title: BLACK HOLE ENGINE ↔ WHITE HOLE ENGINE
+title: BLACK HOLE ↔ WHITE HOLE
 classification: Interaction
 tags:
   - resonance
@@ -7,7 +7,7 @@ tags:
   - cosmic-engines
 ---
 
-# BLACK HOLE ENGINE ↔ WHITE HOLE ENGINE
+# BLACK HOLE ↔ WHITE HOLE
 
 ![BLACK HOLE ENGINE ↔ WHITE HOLE ENGINE](/images/interactions/black-hole-white-hole/1.png)
 
