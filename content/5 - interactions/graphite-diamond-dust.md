@@ -108,5 +108,5 @@ Distance from pressure determines the result.
 ## Linked Entries
 
 - [[2 - engines/graphite|THE GRAPHITE ENGINE]]
-- [[2 - engines/diamond|THE DIAMOND DRIVE]]
+- [[2 - engines/diamond|THE DIAMOND ENGINE]]
 - [[3 - engine families/particulate-finalities/dust|DUST]]

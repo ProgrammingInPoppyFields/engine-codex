@@ -1,14 +1,14 @@
 ---
-title: THE DRIVE OF FORGETTING
-classification: Drive
+title: THE FORGETTING ENGINE
+classification: Engine
 tags:
   - drive
   - aftermath-engines
 ---
 
-# THE DRIVE OF THE SECOND DEATH
+# THE SECOND DEATH ENGINE
 
-![THE DRIVE OF THE SECOND DEATH](/images/forgetting/1.png)
+![THE SECOND DEATH ENGINE](/images/forgetting/1.png)
 
 > First death: biological. Second death: archival.
 
@@ -19,7 +19,7 @@ tags:
 
 ## Classification
 
-**Drive**  
+**Engine**  
 **Aftermath Engine**
 
 ## Material / Color

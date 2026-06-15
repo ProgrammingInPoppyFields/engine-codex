@@ -1,14 +1,14 @@
 ---
-title: THE PINK DRIVE
-classification: Drive
+title: THE PINK ENGINE
+classification: Engine
 tags:
   - drive
   - color-engines
 ---
 
-# THE PINK DRIVE
+# THE PINK ENGINE
 
-![THE PINK DRIVE](/images/pink/1.png)
+![THE PINK ENGINE](/images/pink/1.png)
 
 > Liminality with a heartbeat.
 
@@ -20,7 +20,7 @@ tags:
 
 ## Classification
 
-**Drive**  
+**Engine**  
 **Color Engine**
 
 ## Material / Color
@@ -49,7 +49,7 @@ Blood moving. Soft machinery continuing. Breath returning after pain has not ful
 
 ## Profile
 
-PINK is the Drive of embodied liminality: change that happens inside the living structure.
+PINK is the Engine of embodied liminality: change that happens inside the living structure.
 
 Where INDIGO is the in-between of perception, PINK is the in-between of the body. It is the state between injury and healing, exposure and protection, softness and strength, becoming and surviving.
 
@@ -88,7 +88,7 @@ They are part of the same living system.
 
 ## Relations / Linked Entries
 
-- [[2 - engines/indigo|THE INDIGO DRIVE]] — related through liminality and unresolved transition.
+- [[2 - engines/indigo|THE INDIGO ENGINE]] — related through liminality and unresolved transition.
 - [[2 - engines/turquoise|THE TURQUOISE ENGINE]] — related through transformation, charged choice, and unstable becoming.
 
 ## Gallery

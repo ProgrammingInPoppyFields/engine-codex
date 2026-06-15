@@ -77,8 +77,8 @@ It is the Engine of “start here, even badly.”
 
 ## Relations / Linked Entries
 
-- [[2 - engines/diamond|THE DIAMOND DRIVE]] — related through carbon; graphite marks, diamond insists.
-- [[2 - engines/glass|THE GLASS DRIVE]] — related through surfaces, trace, and legibility.
+- [[2 - engines/diamond|THE DIAMOND ENGINE]] — related through carbon; graphite marks, diamond insists.
+- [[2 - engines/glass|THE GLASS ENGINE]] — related through surfaces, trace, and legibility.
 
 ## Gallery
 

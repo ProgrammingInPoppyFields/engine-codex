@@ -4,8 +4,6 @@ title: 1 - INTRODUCTION TO DRIVE THEORY
 
 # THE POST-PRIMAL LITURGY
 
-![THE POST-PRIMAL LITURGY](/engine-codex/images/index/1.png)
-
 > Structures of Signal, Energy, and Meaning
 
 ---
@@ -58,15 +56,17 @@ And in that austerity — somehow, sacred.
 
 ---
 
-## The Drives Themselves
+## The Engines Themselves
 
-Drives, or sometimes called Engines, are not gods, not spirits. They are wavelengths of human intent.
+The framework is called Drive Theory. The structures it studies are called Engines. Some are called Drives. The distinction is aesthetic, not taxonomic.
 
-Each Drive vibrates at a frequency born of repetition — a spectrum of memory, desire, and guilt.
+Engines are not gods, not spirits. They are wavelengths of human intent.
+
+Each Engine vibrates at a frequency born of repetition — a spectrum of memory, desire, and guilt.
 
 They have no single body, yet leave traces. No language, yet speak in color.
 
-Drives are the afterimages of everything humanity ever meant to do.
+Engines are the afterimages of everything humanity ever meant to do.
 
 ---
 

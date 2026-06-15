@@ -1,14 +1,14 @@
 ---
-title: THE INDIGO DRIVE
-classification: Drive
+title: THE INDIGO ENGINE
+classification: Engine
 tags:
   - drive
   - color-engines
 ---
 
-# THE INDIGO DRIVE
+# THE INDIGO ENGINE
 
-![THE INDIGO DRIVE](/images/indigo/9.png)
+![THE INDIGO ENGINE](/images/indigo/9.png)
 
 > The color that will not decide.
 
@@ -20,7 +20,7 @@ tags:
 
 ## Classification
 
-**Drive**  
+**Engine**  
 **Color Engine**
 
 ## Material / Color
@@ -51,7 +51,7 @@ A low cognitive hum. The almost-sound of a word you cannot remember but keep cir
 
 ## Profile
 
-INDIGO is the Drive of in-between states: liminality, ambiguity, uncertainty, and the charged pause before definition.
+INDIGO is the Engine of in-between states: liminality, ambiguity, uncertainty, and the charged pause before definition.
 
 It does not clarify.  
 It does not resolve.  
@@ -89,7 +89,7 @@ That is its mercy.
 
 ## Relations / Linked Entries
 
-- [[2 - engines/pink|THE PINK DRIVE]] — related through transformation and liminal embodiment.
+- [[2 - engines/pink|THE PINK ENGINE]] — related through transformation and liminal embodiment.
 - [[2 - engines/turquoise|THE TURQUOISE ENGINE]] — related through charged in-betweenness and unresolved choice.
 
 ## Gallery

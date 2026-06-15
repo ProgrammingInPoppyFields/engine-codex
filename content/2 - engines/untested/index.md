@@ -82,7 +82,7 @@ It is related to GLASS pushed far beyond healthy coping strategies. It is also o
 
 ## Relations / Linked Entries
 
-- [[2 - engines/glass|THE GLASS DRIVE]] — pushed beyond healthy coping strategies; both involve transparency, fracture, and surface.
+- [[2 - engines/glass|THE GLASS ENGINE]] — pushed beyond healthy coping strategies; both involve transparency, fracture, and surface.
 - [[2 - engines/crimson-diamond|THE CRIMSON DIAMOND ENGINE]] — occasionally mistaken relation; both involve pressure, cracks, and dark red leakage.
 
 ## Gallery

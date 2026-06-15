@@ -1,14 +1,14 @@
 ---
-title: THE GLASS DRIVE
-classification: Drive
+title: THE GLASS ENGINE
+classification: Engine
 tags:
   - drive
   - material-engines
 ---
 
-# THE GLASS DRIVE
+# THE GLASS ENGINE
 
-![THE GLASS DRIVE](/images/glass/3.png)
+![THE GLASS ENGINE](/images/glass/3.png)
 
 > Transparency is not the same thing as safety.
 
@@ -20,7 +20,7 @@ tags:
 
 ## Classification
 
-**Drive**  
+**Engine**  
 **Material Engine**
 
 ## Material / Color
@@ -45,7 +45,7 @@ Window vibration. Glassware resonance. The sharp, terrible music of a crack begi
 
 ## Profile
 
-GLASS is the Drive of transparent structure: the boundary that lets light pass while keeping bodies apart.
+GLASS is the Engine of transparent structure: the boundary that lets light pass while keeping bodies apart.
 
 It is not emptiness. It is not openness. It is not trust.
 
@@ -81,7 +81,7 @@ GLASS is dangerous because it seems like it is not holding anything back.
 
 ## Relations / Linked Entries
 
-- [[2 - engines/diamond|THE DIAMOND DRIVE]] — related through clarity, refraction, hardness, and value.
+- [[2 - engines/diamond|THE DIAMOND ENGINE]] — related through clarity, refraction, hardness, and value.
 - [[2 - engines/ceramic|THE CERAMIC ENGINE]] — related through fracture, vessels, and breakable structure.
 - [[2 - engines/graphite|THE GRAPHITE ENGINE]] — related through surfaces, marks, and visibility.
 

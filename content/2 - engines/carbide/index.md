@@ -94,7 +94,7 @@ CARBIDE is what happens when endurance gets specified.
 ## Relations / Linked Entries
 
 - [[2 - engines/ceramic|THE CERAMIC ENGINE]] — related through engineered brittleness, heat, and hardened material.
-- [[2 - engines/diamond|THE DIAMOND DRIVE]] — related through hardness and extreme material behavior.
+- [[2 - engines/diamond|THE DIAMOND ENGINE]] — related through hardness and extreme material behavior.
 
 ## Gallery
 

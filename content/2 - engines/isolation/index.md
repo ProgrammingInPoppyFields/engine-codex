@@ -1,14 +1,14 @@
 ---
-title: THE DRIVE OF ISOLATION
-classification: Drive
+title: THE ISOLATION ENGINE
+classification: Engine
 tags:
   - drive
   - aftermath-engines
 ---
 
-# THE DRIVE OF ISOLATION
+# THE ISOLATION ENGINE
 
-![THE DRIVE OF ISOLATION](/images/isolation/1.png)
+![THE ISOLATION ENGINE](/images/isolation/1.png)
 
 > Nothing grows here. Nothing calls back.
 
@@ -19,7 +19,7 @@ tags:
 
 ## Classification
 
-**Drive**  
+**Engine**  
 **Aftermath Engine**
 
 ## Material / Color
@@ -46,7 +46,7 @@ No beacon tone. No wind. No surf. No returned call. No atmospheric medium for co
 
 ## Profile
 
-ISOLATION is the Drive of terminal habitat failure.
+ISOLATION is the Engine of terminal habitat failure.
 
 It appears as a dead asteroid drifting indefinitely through vacuum. No atmosphere. No biosphere. No signal activity.
 

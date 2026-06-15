@@ -1,12 +1,12 @@
 ---
-title: THE ZERO CORE DRIVE
-classification: Drive
+title: THE ZERO CORE ENGINE
+classification: Engine
 tags:
   - drive
   - unresolvable-engines
 ---
 
-# THE ZERO CORE DRIVE
+# THE ZERO CORE ENGINE
 
 ![](/images/zero-core/3.png)
 
@@ -20,7 +20,7 @@ tags:
 
 ## Classification
 
-Drive  
+Engine  
 Unresolvable Engine
 
 ## Material / Color
@@ -65,7 +65,7 @@ That is not the same as safety.
 
 ## Profile
 
-ZERO CORE is the Drive of continued advancement under known cost.
+ZERO CORE is the Engine of continued advancement under known cost.
 
 It appears wherever people push systems, matter, energy, knowledge, or bodies beyond older limits while understanding that doing so is not free.
 
@@ -139,4 +139,4 @@ That point is ZERO CORE.
 
 - ZERO CORE is not the accident. It is the condition under which accident becomes possible and progress remains thinkable.
 - “Proceeding as planned” is not comfort. It is a status report.
-- The Drive does not ask for bravery. It asks whether the margin is real.
+- The Engine does not ask for bravery. It asks whether the margin is real.

@@ -55,5 +55,5 @@ learns how to glow.
 
 ## Linked Entries
 
-- [[2 - engines/diamond|THE DIAMOND DRIVE]]
-- [[2 - engines/glass|THE GLASS DRIVE]]
+- [[2 - engines/diamond|THE DIAMOND ENGINE]]
+- [[2 - engines/glass|THE GLASS ENGINE]]

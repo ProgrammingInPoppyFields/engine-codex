@@ -1,14 +1,14 @@
 ---
-title: THE DIAMOND DRIVE
-classification: Drive
+title: THE DIAMOND ENGINE
+classification: Engine
 tags:
   - drive
   - material-engines
 ---
 
-# THE DIAMOND DRIVE
+# THE DIAMOND ENGINE
 
-![THE DIAMOND DRIVE](/images/diamond/7.png)
+![THE DIAMOND ENGINE](/images/diamond/7.png)
 
 > Want, made hard enough to cut.
 
@@ -20,7 +20,7 @@ tags:
 
 ## Classification
 
-**Drive**  
+**Engine**  
 **Material Engine**
 
 ## Material / Color
@@ -45,7 +45,7 @@ A hard tap on glass. A cutting edge meeting resistance. Silence with facets.
 
 ## Profile
 
-DIAMOND is the Drive of hard want: desire compressed until it becomes structure.
+DIAMOND is the Engine of hard want: desire compressed until it becomes structure.
 
 It is not softness longing upward. It is pressure refusing dissolution. DIAMOND does not ask politely to be valued; it becomes the material language of value, hardness, scarcity, brilliance, and impossible expectation.
 
@@ -77,7 +77,7 @@ This is not necessarily a mercy.
 ## Relations / Linked Entries
 
 - [[2 - engines/graphite|THE GRAPHITE ENGINE]] — related through carbon; graphite marks, diamond cuts.
-- [[2 - engines/glass|THE GLASS DRIVE]] — related through clarity, refraction, and hard surfaces.
+- [[2 - engines/glass|THE GLASS ENGINE]] — related through clarity, refraction, and hard surfaces.
 
 ## Gallery
 

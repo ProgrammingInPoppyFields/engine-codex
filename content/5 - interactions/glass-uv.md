@@ -37,5 +37,5 @@ GLASS answers:
 
 ## Linked Entries
 
-- [[2 - engines/glass|THE GLASS DRIVE]]
+- [[2 - engines/glass|THE GLASS ENGINE]]
 - [[2 - engines/ultraviolet|THE ULTRAVIOLET ENGINE]]

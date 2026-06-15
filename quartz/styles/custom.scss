@@ -1,5 +1,4 @@
 @use "./variables.scss" as *;
-@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap');
 
 /* THE POST-PRIMAL LITURGY — typography overrides */
 
@@ -58,6 +57,16 @@ samp {
   opacity: 1 !important;
   border-left: 2px solid #ffffff;
   padding-left: 0.5rem;
+}
+
+/* Footer styling */
+footer {
+  padding: 0 3rem;
+  color: var(--gray) !important;
+
+  p, a, li {
+    color: var(--gray) !important;
+  }
 }
 
 /* Hide graph on all pages except index */

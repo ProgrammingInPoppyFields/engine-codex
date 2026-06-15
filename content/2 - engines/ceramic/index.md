@@ -81,7 +81,7 @@ CERAMIC knows that hardness can be produced by vulnerability passing through fir
 ## Relations / Linked Entries
 
 - [[2 - engines/carbide|THE CARBIDE ENGINE]] — related through ceramic engineering, heat, and hardened structure.
-- [[2 - engines/glass|THE GLASS DRIVE]] — related through fracture, surface, and the peril of transparency.
+- [[2 - engines/glass|THE GLASS ENGINE]] — related through fracture, surface, and the peril of transparency.
 
 ## Gallery
 

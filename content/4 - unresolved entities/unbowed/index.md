@@ -84,7 +84,7 @@ Just without lowering.
 ## Relations / Linked Entries
 
 - [[2 - engines/unsung|THE UNSUNG ENGINE]] — shadow relation; UNSUNG is quiet unrecorded significance, UNBOWED is refusal inside that shadow.
-- [[2 - engines/second-death|THE DRIVE OF THE SECOND DEATH]] — adjacent through memory, disappearance, and what happens after recognition fails.
+- [[2 - engines/second-death|THE SECOND DEATH ENGINE]] — adjacent through memory, disappearance, and what happens after recognition fails.
 - [[2 - engines/oblivion|THE OBLIVION ENGINE]] — adjacent through memorial absence and the threat of recordlessness.
 
 ## Gallery

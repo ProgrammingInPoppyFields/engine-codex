@@ -1,14 +1,14 @@
 ---
-title: THE ULTRAVIOLET DRIVE
-classification: Drive
+title: THE ULTRAVIOLET ENGINE
+classification: Engine
 tags:
   - drive
   - color-engines
 ---
 
-# THE ULTRAVIOLET DRIVE
+# THE ULTRAVIOLET ENGINE
 
-![THE ULTRAVIOLET DRIVE](/images/uv/1.png)
+![THE ULTRAVIOLET ENGINE](/images/uv/1.png)
 
 > Present, but not available to the eye.
 
@@ -21,7 +21,7 @@ tags:
 
 ## Classification
 
-**Drive**  
+**Engine**  
 **Color Engine**
 
 ## Material / Color
@@ -52,7 +52,7 @@ Fluorescent lights heard through bone. Static from a signal the body receives be
 
 ## Profile
 
-ULTRAVIOLET is the Drive of the imperceptible: the real thing that exceeds ordinary detection.
+ULTRAVIOLET is the Engine of the imperceptible: the real thing that exceeds ordinary detection.
 
 It is not invisible because it is absent.  
 It is invisible because the witness is incomplete.

@@ -41,5 +41,5 @@ The other says:
 
 ## Linked Entries
 
-- [[2 - engines/indigo|THE INDIGO DRIVE]]
-- [[2 - engines/turquoise|THE TURQUOISE DRIVE]]
+- [[2 - engines/indigo|THE INDIGO ENGINE]]
+- [[2 - engines/turquoise|THE TURQUOISE ENGINE]]

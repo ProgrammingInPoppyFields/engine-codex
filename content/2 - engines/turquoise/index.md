@@ -98,8 +98,8 @@ It does not ask whether a choice matters. It assumes all choices matter too much
 
 ## Relations / Linked Entries
 
-- [[2 - engines/indigo|THE INDIGO DRIVE]] — sibling uncertainty; INDIGO is unresolved category, TURQUOISE is unresolved choice.
-- [[2 - engines/pink|THE PINK DRIVE]] — related through charged transformation, vulnerability, and becoming under pressure.
+- [[2 - engines/indigo|THE INDIGO ENGINE]] — sibling uncertainty; INDIGO is unresolved category, TURQUOISE is unresolved choice.
+- [[2 - engines/pink|THE PINK ENGINE]] — related through charged transformation, vulnerability, and becoming under pressure.
 
 ## Gallery
 

@@ -83,7 +83,7 @@ Fewer gestures.
 ## Relations / Linked Entries
 
 - [[3 - engine families/particulate-finalities/dust|THE DUST ENGINE]] — pessimistic cousin relation; both concern final dispersal, but OBLIVION removes the sentimental gestures.
-- [[2 - engines/second-death|THE DRIVE OF THE SECOND DEATH]] — related through memory failure and archival disappearance.
+- [[2 - engines/second-death|THE SECOND DEATH ENGINE]] — related through memory failure and archival disappearance.
 
 ## Gallery
 

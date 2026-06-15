@@ -176,7 +176,7 @@ It makes survival feel unimpressive.
 - [[2 - engines/oblivion|THE OBLIVION ENGINE]] — often mistaken relation; OBLIVION removes evidence, while GRAY leaves the evidence intact and makes it feel insufficient.
 - [[2 - engines/unsung|THE UNSUNG ENGINE]] — related through recognition; UNSUNG concerns unrecognized significance, while GRAY concerns the fear that there was no significance to recognize.
 - [[2 - engines/untested|THE UNTESTED ENGINE]] — related through envy; UNTESTED envies damage, while GRAY envies distinction.
-- [[2 - engines/diamond|THE DIAMOND DRIVE]] — contrast relation; DIAMOND compresses pressure into brilliance, while GRAY receives pressure and produces dullness.
+- [[2 - engines/diamond|THE DIAMOND ENGINE]] — contrast relation; DIAMOND compresses pressure into brilliance, while GRAY receives pressure and produces dullness.
 - [[2 - engines/black-hole|THE BLACK HOLE ENGINE]] — contrast relation; BLACK HOLE becomes dense and powerful, while GRAY becomes dense without becoming powerful.
 - [[2 - engines/white-hole|THE WHITE HOLE ENGINE]] — contrast relation; WHITE HOLE emits too much possibility, while GRAY makes possibility feel presumptuous.
 

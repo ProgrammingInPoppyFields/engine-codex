@@ -134,9 +134,9 @@ Sometimes recognition arrives too late to be innocent.
 
 ## Relations / Linked Entries
 
-- [[2 - engines/indigo|THE INDIGO DRIVE]] — related through uncertainty; INDIGO holds unresolved almost, while PURPLE resolves through consequence.
-- [[2 - engines/pink|THE PINK DRIVE]] — related through bodily vulnerability, damage, and recognition of living material.
-- [[2 - engines/gold-star|THE DRIVE OF THE GOLD STAR]] — adjacent through formal recognition, cost, and the danger of honor arriving after harm.
+- [[2 - engines/indigo|THE INDIGO ENGINE]] — related through uncertainty; INDIGO holds unresolved almost, while PURPLE resolves through consequence.
+- [[2 - engines/pink|THE PINK ENGINE]] — related through bodily vulnerability, damage, and recognition of living material.
+- [[2 - engines/gold-star|THE ENGINE OF THE GOLD STAR]] — adjacent through formal recognition, cost, and the danger of honor arriving after harm.
 
 ## Gallery
 
