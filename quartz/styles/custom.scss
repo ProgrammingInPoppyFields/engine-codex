@@ -1,0 +1,89 @@
+@use "./variables.scss" as *;
+
+/* THE POST-PRIMAL LITURGY — typography overrides */
+
+body,
+section,
+article,
+p,
+li,
+td,
+th,
+input,
+textarea,
+button {
+  font-family: "IBM Plex Mono", monospace !important;
+}
+
+/* Site title only: sci-fi titleplate */
+.page-title,
+.site-title,
+.sidebar .page-title,
+.sidebar .site-title {
+  font-family: "Orbitron", "Space Grotesk", sans-serif !important;
+  text-transform: uppercase;
+  letter-spacing: 0.16em;
+  font-weight: 600;
+  font-size: 1rem;
+  line-height: 1.2;
+}
+
+/* Keep article/content headings calmer */
+.folder-container,
+a.folder-button,
+article h1,
+article h2,
+article h3,
+article h4,
+h1,
+h2,
+h3,
+h4 {
+  font-family: "Space Grotesk", sans-serif !important;
+  text-transform: none;
+  letter-spacing: 0.035em;
+}
+
+code,
+pre,
+kbd,
+samp {
+  font-family: "IBM Plex Mono", monospace !important;
+}
+
+/* Homepage: massive graph front and center */
+body[data-slug="index"] {
+  #quartz-body {
+    @media all and (min-width: 1200px) {
+      grid-template-columns: 320px auto;
+      grid-template-areas:
+        "grid-sidebar-left grid-sidebar-right"
+        "grid-sidebar-left grid-header"
+        "grid-sidebar-left grid-center"
+        "grid-sidebar-left grid-footer";
+    }
+  }
+
+  .right.sidebar {
+    position: initial !important;
+    height: unset !important;
+    padding: 2rem 0 0 0 !important;
+
+    .graph {
+      width: 100%;
+
+      & > h3 {
+        display: none;
+      }
+
+      & > .global-graph-icon {
+        display: none;
+      }
+
+      & > .graph-outer {
+        height: 80vh !important;
+        border: none;
+      }
+    }
+  }
+}
