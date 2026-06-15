@@ -51,11 +51,79 @@ samp {
   font-family: "IBM Plex Mono", monospace !important;
 }
 
+/* Collapsible left sidebar */
+@media all and (min-width: 1200px) {
+  #quartz-body {
+    grid-template-columns: auto 1fr 320px !important;
+    transition: grid-template-columns 0.3s ease;
+  }
+
+  body.sidebar-collapsed #quartz-body {
+    grid-template-columns: 0px 1fr 320px !important;
+  }
+
+  .left.sidebar {
+    width: 40vw;
+    max-width: 40vw;
+    min-width: 0;
+    overflow-y: auto;
+    background: rgba(0, 0, 0, 0.5);
+    backdrop-filter: blur(20px);
+    -webkit-backdrop-filter: blur(20px);
+    transition: width 0.3s ease, max-width 0.3s ease, padding 0.3s ease, opacity 0.3s ease;
+  }
+
+  body.sidebar-collapsed .left.sidebar {
+    width: 0;
+    max-width: 0;
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+    overflow: hidden;
+    opacity: 0;
+  }
+
+  .center {
+    min-width: 0;
+    overflow-x: hidden;
+    transition: max-width 0.3s ease;
+  }
+
+  .sidebar-toggle {
+    position: fixed;
+    top: 1rem;
+    left: 1rem;
+    z-index: 999;
+    background: var(--light);
+    border: 1px solid var(--lightgray);
+    color: var(--dark);
+    cursor: pointer;
+    width: 32px;
+    height: 32px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 4px;
+    font-size: 1.2rem;
+    line-height: 1;
+    transition: background-color 0.2s ease;
+
+    &:hover {
+      background-color: var(--lightgray);
+    }
+  }
+}
+
+@media all and (max-width: 1199px) {
+  .sidebar-toggle {
+    display: none;
+  }
+}
+
 /* Homepage: massive graph front and center */
 body[data-slug="index"] {
   #quartz-body {
     @media all and (min-width: 1200px) {
-      grid-template-columns: 320px auto;
+      grid-template-columns: auto 1fr !important;
       grid-template-areas:
         "grid-sidebar-left grid-sidebar-right"
         "grid-sidebar-left grid-header"
@@ -64,13 +132,28 @@ body[data-slug="index"] {
     }
   }
 
+  &.sidebar-collapsed #quartz-body {
+    @media all and (min-width: 1200px) {
+      grid-template-columns: 0px 1fr !important;
+    }
+  }
+
+  .center {
+    padding: 0 3rem;
+    max-width: 100% !important;
+  }
+
   .right.sidebar {
     position: initial !important;
     height: unset !important;
-    padding: 2rem 0 0 0 !important;
+    padding: 0 !important;
+    min-width: 0;
 
     .graph {
       width: 100%;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
 
       & > h3 {
         display: none;
@@ -81,8 +164,17 @@ body[data-slug="index"] {
       }
 
       & > .graph-outer {
-        height: 80vh !important;
-        border: none;
+        height: calc(100vh - 4rem) !important;
+        width: 90vw !important;
+        max-width: 90vw;
+        margin-top: 2em !important;
+        border: 1px solid var(--gray);
+        border-radius: 25px;
+
+        canvas {
+          display: block;
+          margin: 0 auto;
+        }
       }
     }
   }

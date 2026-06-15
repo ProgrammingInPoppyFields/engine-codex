@@ -23,6 +23,17 @@ export const DefaultFrame: PageFrame = {
   }: PageFrameProps) {
     return (
       <>
+        <script dangerouslySetInnerHTML={{ __html: `document.body.classList.add('sidebar-collapsed')` }} />
+        <button
+          class="sidebar-toggle"
+          aria-label="Toggle sidebar"
+          onClick="
+            document.body.classList.toggle('sidebar-collapsed');
+            this.textContent = document.body.classList.contains('sidebar-collapsed') ? '☰' : '✕';
+          "
+        >
+          ☰
+        </button>
         <div class="left sidebar">
           {left.map((BodyComponent) => (
             <BodyComponent {...componentData} />

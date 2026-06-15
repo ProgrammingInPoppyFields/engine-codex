@@ -34,7 +34,7 @@ if (!match) {
 const cfg = match[1]
 const drag = match[2]
 const container = match[0].match(/\((\w+)\.dataset/)[1]
-const patch = `var ${cfg}=JSON.parse(${container}.dataset.cfg||"{}");if(document.body.dataset.slug==="index"){${cfg}.depth=-1;${cfg}.focusOnHover=true;${cfg}.enableRadial=true;${cfg}.scale=0.9;${cfg}.centerForce=0.2}var ${drag}=${cfg}.drag`
+const patch = `var ${cfg}=JSON.parse(${container}.dataset.cfg||"{}");if(document.body.dataset.slug==="index"){${cfg}.depth=-1;${cfg}.focusOnHover=true;${cfg}.enableRadial=true;${cfg}.scale=0.55;${cfg}.centerForce=0.15;${cfg}.repelForce=0.8}var ${drag}=${cfg}.drag`
 
 content = content.replace(match[0], patch)
 writeFileSync(pluginFile, content)
