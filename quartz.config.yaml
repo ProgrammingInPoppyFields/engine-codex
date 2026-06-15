@@ -16,7 +16,8 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header: "Orbitron"
+      title: "Orbitron"
+      header: "Exo 2"
       body: "IBM Plex Mono"
       code: "IBM Plex Mono"
     colors:
