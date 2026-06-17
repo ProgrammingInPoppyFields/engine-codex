@@ -6,7 +6,7 @@ tags: []
 
 # THE CLINGER
 
-![THE CLINGER](/images/clinger/10.png)
+![THE CLINGER](/images/30.png)
 
 > A failed beginning that never learned how to let go.
 
@@ -89,22 +89,22 @@ It delays it until delay becomes identity.
 
 <div style="display: flex; gap: 1rem; align-items: flex-start;">
   <div style="flex: 1;">
-    <img src="/images/clinger/13.png">
+    <img src="/images/33.png">
     <p><strong></strong></p>
   </div>
   <div style="flex: 1;">
-    <img src="/images/clinger/14.png">
+    <img src="/images/34.png">
     <p><strong></strong></p>
   </div>
 </div>
 
 <div style="display: flex; gap: 1rem; align-items: flex-start;">
   <div style="flex: 1;">
-    <img src="/images/clinger/7.png">
+    <img src="/images/40.png">
     <p><strong></strong></p>
   </div>
   <div style="flex: 1;">
-    <img src="/images/clinger/9.png">
+    <img src="/images/42.png">
     <p><strong></strong></p>
   </div>
 </div>

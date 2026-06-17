@@ -7,7 +7,7 @@ tags:
 
 # BLACK HOLE ↔ WHITE HOLE
 
-![BLACK HOLE ENGINE ↔ WHITE HOLE ENGINE](/images/interactions/black-hole-white-hole/1.png)
+![BLACK HOLE ENGINE ↔ WHITE HOLE ENGINE](/images/96.png)
 
 > Endurance Amid Infinite Expulsion
 

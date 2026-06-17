@@ -7,7 +7,7 @@ tags:
 
 # THE ULTRAVIOLET ENGINE
 
-![THE ULTRAVIOLET ENGINE](/images/uv/1.png)
+![THE ULTRAVIOLET ENGINE](/images/255.png)
 
 > Present, but not available to the eye.
 
@@ -97,37 +97,37 @@ It has already entered the room.
 
 <div style="display: flex; gap: 1rem; align-items: flex-start;">
   <div style="flex: 1;">
-    <img src="/images/uv/5.png">
+    <img src="/images/262.png">
     <p><strong></strong></p>
   </div>
   <div style="flex: 1;">
-    <img src="/images/uv/6.png">
+    <img src="/images/263.png">
     <p><strong></strong></p>
   </div>
   <div style="flex: 1;">
-    <img src="/images/uv/11.png">
-    <p><strong></strong></p>
-  </div>
-</div>
-
-<div style="display: flex; gap: 1rem; align-items: flex-start;">
-  <div style="flex: 1;">
-    <img src="/images/uv/7.png">
-    <p><strong></strong></p>
-  </div>
-  <div style="flex: 1;">
-    <img src="/images/uv/3.png">
+    <img src="/images/257.png">
     <p><strong></strong></p>
   </div>
 </div>
 
 <div style="display: flex; gap: 1rem; align-items: flex-start;">
   <div style="flex: 1;">
-    <img src="/images/uv/9.png">
+    <img src="/images/264.png">
     <p><strong></strong></p>
   </div>
   <div style="flex: 1;">
-    <img src="/images/uv/10.png">
+    <img src="/images/260.png">
+    <p><strong></strong></p>
+  </div>
+</div>
+
+<div style="display: flex; gap: 1rem; align-items: flex-start;">
+  <div style="flex: 1;">
+    <img src="/images/266.png">
+    <p><strong></strong></p>
+  </div>
+  <div style="flex: 1;">
+    <img src="/images/256.png">
     <p><strong></strong></p>
   </div>
 </div>

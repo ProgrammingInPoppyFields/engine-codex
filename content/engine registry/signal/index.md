@@ -7,7 +7,7 @@ tags:
 
 # THE SIGNAL ENGINE
 
-![THE SIGNAL ENGINE](/images/signal/20.png)
+![THE SIGNAL ENGINE](/images/187.png)
 
 > Presence trying to be received.
 
@@ -64,15 +64,15 @@ Did anyone receive it?
 
 <div style="display: flex; gap: 1rem; align-items: flex-start;">
   <div style="flex: 1;">
-    <img src="/images/signal/s.png" alt="SIGNAL small scale">
+    <img src="/images/195.png" alt="SIGNAL small scale">
     <p><strong>Local Scale</strong></p>
   </div>
   <div style="flex: 1;">
-    <img src="/images/signal/m.png" alt="SIGNAL medium scale">
+    <img src="/images/194.png" alt="SIGNAL medium scale">
     <p><strong>Network Scale</strong></p>
   </div>
   <div style="flex: 1;">
-    <img src="/images/signal/l.png" alt="SIGNAL large scale">
+    <img src="/images/193.png" alt="SIGNAL large scale">
     <p><strong>Global Scale</strong></p>
   </div>
 </div>
@@ -102,9 +102,9 @@ Did anyone receive it?
 
 ## Gallery
 
-![SIGNAL gallery image 2](/images/signal/1.png)
-![SIGNAL gallery image 3](/images/signal/8.png)
-![SIGNAL gallery image 4](/images/signal/17.png)
+![SIGNAL gallery image 2](/images/182.png)
+![SIGNAL gallery image 3](/images/191.png)
+![SIGNAL gallery image 4](/images/185.png)
 
 ## Special Notes
 

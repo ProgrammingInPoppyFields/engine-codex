@@ -7,7 +7,7 @@ tags:
 
 # THE SAND ENGINE
 
-![THE SAND ENGINE](/images/particulate-trio/sand/1.png)
+![THE SAND ENGINE](/images/174.png)
 
 > The youngest ending, loud enough to get everywhere.
 
@@ -84,11 +84,11 @@ It polishes the surface by bothering it for a very long time.
 
 ## Gallery
 
-![SAND gallery image 2](/images/particulate-trio/sand/2.png)
+![SAND gallery image 2](/images/175.png)
 
-![SAND gallery image 3](/images/particulate-trio/sand/3.png)
+![SAND gallery image 3](/images/176.png)
 
-![SAND gallery image 4](/images/particulate-trio/sand/4.png)
+![SAND gallery image 4](/images/177.png)
 
 ## Special Notes
 

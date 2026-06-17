@@ -7,7 +7,7 @@ tags:
 
 # INDIGO ↔ TURQUOISE
 
-![INDIGO ↔ TURQUOISE](/images/interactions/indigo-turquoise/5.png)
+![INDIGO ↔ TURQUOISE](/images/129.png)
 
 > Two Kinds of Undecided.
 

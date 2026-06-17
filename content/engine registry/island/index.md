@@ -7,7 +7,7 @@ tags:
 
 # THE ISLAND ENGINE
 
-![THE ISLAND ENGINE](/images/island/1.png)
+![THE ISLAND ENGINE](/images/131.png)
 
 > It builds the lighthouse first.
 
@@ -97,8 +97,8 @@ ISLAND is building something stable enough to face it.
 
 ## Gallery
 
-![ISLAND gallery image 2](/images/island/2.png)
-![ISLAND gallery image 3](/images/island/3.png)
+![ISLAND gallery image 2](/images/132.png)
+![ISLAND gallery image 3](/images/133.png)
 
 ## Special Notes
 

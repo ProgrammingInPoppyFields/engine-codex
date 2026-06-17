@@ -7,7 +7,7 @@ tags:
 
 # THE OBLIVION ENGINE
 
-![THE OBLIVION ENGINE](/images/oblivion/1.png)
+![THE OBLIVION ENGINE](/images/155.png)
 
 > No plaque. No engraving. No measurable trace.
 

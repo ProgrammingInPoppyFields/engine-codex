@@ -7,7 +7,7 @@ tags:
 
 # THE TRINITY OF COGNITION
 
-![THE TRINITY OF COGNITION](/images/trinity-of-cognition/3.png)
+![THE TRINITY OF COGNITION](/images/198.png)
 
 > Feeling, governance, and mechanism arranged as one unstable system.
 
@@ -121,9 +121,9 @@ No known relations currently listed.
 
 From left to right: UNIT, AUTOPILOT, NULL
 
-![TRINITY OF COGNITION gallery image 3](/images/trinity-of-cognition/4.png)
+![TRINITY OF COGNITION gallery image 3](/images/199.png)
 
-![TRINITY OF COGNITION gallery image 4](/images/trinity-of-cognition/5.png)
+![TRINITY OF COGNITION gallery image 4](/images/200.png)
 
 ## Special Notes
 

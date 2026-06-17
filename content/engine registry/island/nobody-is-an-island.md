@@ -6,7 +6,7 @@ tags: []
 
 # NOBODY IS AN ISLAND
 
-![](/images/island/5.png)
+![](/images/135.png)
 
 > ISLAND ENGINE ↔ ISOLATION ENGINE
 
@@ -118,7 +118,7 @@ to make it home.
 
 ## Gallery
 
-![NOBODY IS AN ISLAND gallery image 2](/images/interactions/island-isolation/2.png)
+<!-- ![NOBODY IS AN ISLAND gallery image 2](/images/interactions/island-isolation/2.png) -->
 
 ## Linked Entries
 

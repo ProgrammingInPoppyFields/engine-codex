@@ -7,7 +7,7 @@ tags:
 
 # THE BROADCAST ENGINE
 
-![THE BROADCAST ENGINE](/images/broadcast/1.png)
+![THE BROADCAST ENGINE](/images/3.png)
 
 > The message leaves, whether or not anyone answers.
 
@@ -65,15 +65,15 @@ Once sent, it is no longer fully yours.
 
 <div style="display: flex; gap: 1rem; align-items: flex-start;">
   <div style="flex: 1;">
-    <img src="/images/broadcast/s.png" alt="BROADCAST small scale">
+    <img src="/images/14.png" alt="BROADCAST small scale">
     <p><strong>Local Scale</strong></p>
   </div>
   <div style="flex: 1;">
-    <img src="/images/broadcast/m.png" alt="BROADCAST medium scale">
+    <img src="/images/13.png" alt="BROADCAST medium scale">
     <p><strong>Network Scale</strong></p>
   </div>
   <div style="flex: 1;">
-    <img src="/images/broadcast/l.png" alt="BROADCAST large scale">
+    <img src="/images/12.png" alt="BROADCAST large scale">
     <p><strong>Interstellar Travel Scale</strong></p>
   </div>
 </div>
@@ -105,10 +105,10 @@ Once sent, it is no longer fully yours.
 
 ## Gallery
 
-![BROADCAST gallery image 2](/images/broadcast/11.png)
-![BROADCAST gallery image 2](/images/broadcast/12.png)
-![BROADCAST gallery image 3](/images/broadcast/17.png)
-![BROADCAST gallery image 4](/images/broadcast/8.png)
+![BROADCAST gallery image 2](/images/4.png)
+![BROADCAST gallery image 2](/images/4.png)
+![BROADCAST gallery image 3](/images/8.png)
+![BROADCAST gallery image 4](/images/10.png)
 
 
 ## Special Notes

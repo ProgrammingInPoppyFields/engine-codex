@@ -6,7 +6,7 @@ tags: []
 
 # GLASS ↔ ULTRAVIOLET
 
-![GLASS ↔ ULTRAVIOLET](/images/interactions/glass-uv/1.png)
+![GLASS ↔ ULTRAVIOLET](/images/123.png)
 
 > Spectral Reveal
 

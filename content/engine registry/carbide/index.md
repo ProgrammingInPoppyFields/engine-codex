@@ -7,7 +7,7 @@ tags:
 
 # THE CARBIDE ENGINE
 
-![THE CARBIDE ENGINE](/images/carbide/1.png)
+![THE CARBIDE ENGINE](/images/14.png)
 Variant: The Spindle Form
 
 > Endurance engineered past the point of comfort.
@@ -97,19 +97,19 @@ CARBIDE is what happens when endurance gets specified.
 
 ## Gallery
 
-![CARBIDE gallery image](/images/carbide/4.png)
+![CARBIDE gallery image](/images/20.png)
 Variant: The MOSFET Gate Form
 
-![CARBIDE gallery image](/images/carbide/7.png)
+![CARBIDE gallery image](/images/23.png)
 Variant: The Dendrite Form
 
-![CARBIDE gallery image](/images/carbide/2.png)
+![CARBIDE gallery image](/images/18.png)
 Variant: The Kernel Panic Form
 
-![CARBIDE gallery image](/images/carbide/5.png)
+![CARBIDE gallery image](/images/21.png)
 Variant: The Fork Bomb Form
 
-![CARBIDE gallery image](/images/carbide/10.png)
+![CARBIDE gallery image](/images/15.png)
 Variant: The Rake Angle Form
 
 ## Special Notes

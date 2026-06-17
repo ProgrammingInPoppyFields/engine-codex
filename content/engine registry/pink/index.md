@@ -3,11 +3,12 @@ title: THE PINK ENGINE
 classification: Engine
 tags:
   - color-engines
+  - color-of-almost
 ---
 
 # THE PINK ENGINE
 
-![THE PINK ENGINE](/images/pink/1.png)
+![THE PINK ENGINE](/images/165.png)
 
 > Liminality with a heartbeat.
 
@@ -94,11 +95,11 @@ They are part of the same living system.
 
 ## Gallery
 
-![PINK gallery image 2](/images/pink/2.png)
-![PINK gallery image 3](/images/pink/5.png)
-![PINK gallery image 4](/images/pink/6.png)
-![PINK gallery image 5](/images/pink/7.png)
-![PINK gallery image 5](/images/pink/10.png)
+![PINK gallery image 2](/images/167.png)
+![PINK gallery image 3](/images/168.png)
+![PINK gallery image 4](/images/169.png)
+![PINK gallery image 5](/images/170.png)
+![PINK gallery image 5](/images/166.png)
 
 ## Special Notes
 

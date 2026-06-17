@@ -7,7 +7,7 @@ tags:
 
 # THE DIAMOND ENGINE
 
-![THE DIAMOND ENGINE](/images/diamond/7.png)
+![THE DIAMOND ENGINE](/images/47.png)
 
 > Want, made hard enough to cut.
 
@@ -82,9 +82,9 @@ This is not necessarily a mercy.
 
 ## Gallery
 
-![DIAMOND gallery image 2](/images/diamond/2.png)
-![DIAMOND gallery image 3](/images/diamond/4.png)
-![DIAMOND gallery image 4](/images/diamond/5.png)
+![DIAMOND gallery image 2](/images/44.png)
+![DIAMOND gallery image 3](/images/45.png)
+![DIAMOND gallery image 4](/images/46.png)
 
 Empty for now.
 

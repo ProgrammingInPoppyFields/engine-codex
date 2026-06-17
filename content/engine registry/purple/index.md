@@ -7,7 +7,7 @@ tags:
 
 # THE PURPLE ENGINE
 
-![](/images/purple/2.png)
+![](/images/172.png)
 
 > Recognition through damage. Proof at a cost.
 

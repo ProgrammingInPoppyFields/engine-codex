@@ -7,7 +7,7 @@ tags:
 
 # THE FOUR MONOLITHS OF MATTER
 
-![THE FOUR MONOLITHS OF MATTER](/images/monoliths-of-mattering/8.png)
+![THE FOUR MONOLITHS OF MATTER](/images/154.png)
 
 > Four massive ways matter refuses to remain merely physical.
 
@@ -210,13 +210,13 @@ No one has apologized for this.
 
 From left to right: Dark Matter, Antimatter, White Matter, and Gray Matter
 
-![MONOLITHS gallery image 2](/images/monoliths-of-mattering/1.png)
+![MONOLITHS gallery image 2](/images/147.png)
 
-![MONOLITHS gallery image 3](/images/monoliths-of-mattering/2.png)
+![MONOLITHS gallery image 3](/images/148.png)
 
-![MONOLITHS gallery image 4](/images/monoliths-of-mattering/4.png)
+![MONOLITHS gallery image 4](/images/150.png)
 
-![MONOLITHS gallery image 5](/images/monoliths-of-mattering/5.png)
+![MONOLITHS gallery image 5](/images/151.png)
 
 ## Special Notes
 

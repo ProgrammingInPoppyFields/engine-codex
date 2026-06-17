@@ -3,11 +3,12 @@ title: THE INDIGO ENGINE
 classification: Engine
 tags:
   - color-engines
+  - color-of-almost
 ---
 
 # THE INDIGO ENGINE
 
-![THE INDIGO ENGINE](/images/indigo/9.png)
+![THE INDIGO ENGINE](/images/95.png)
 
 > The color that will not decide.
 
@@ -95,9 +96,9 @@ That is its mercy.
 
 ## Gallery
 
-![INDIGO gallery image 2](/images/indigo/2.png)
-![INDIGO gallery image 3](/images/indigo/6.png)
-![INDIGO gallery image 4](/images/indigo/8.png)
+![INDIGO gallery image 2](/images/92.png)
+![INDIGO gallery image 3](/images/93.png)
+![INDIGO gallery image 4](/images/94.png)
 
 ## Special Notes
 

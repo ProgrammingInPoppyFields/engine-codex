@@ -7,7 +7,7 @@ tags:
 
 # THE WHITE HOLE ENGINE
 
-![THE WHITE HOLE ENGINE](/images/white-hole/1.png)
+![THE WHITE HOLE ENGINE](/images/267.png)
 
 > Anything is possible.
 
@@ -97,15 +97,15 @@ BLACK HOLE says: **So be it.**
 
 <div style="display: flex; gap: 1rem; align-items: flex-start;">
   <div style="flex: 1;">
-    <img src="/images/white-hole/7.png">
+    <img src="/images/280.png">
     <p><strong></strong></p>
   </div>
   <div style="flex: 1;">
-    <img src="/images/white-hole/2.png">
+    <img src="/images/276.png">
     <p><strong></strong></p>
   </div>
   <div style="flex: 1;">
-    <img src="/images/white-hole/12.png">
+    <img src="/images/270.png">
     <p><strong></strong></p>
   </div>
 </div>

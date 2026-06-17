@@ -7,7 +7,7 @@ tags:
 
 # DIAMOND ↔ GLASS
 
-![](/images/interactions/glass-diamond/10.png)
+![](/images/109.png)
 
 > Prismatic Collision
 

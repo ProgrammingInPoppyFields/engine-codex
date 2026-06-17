@@ -6,7 +6,7 @@ tags: []
 
 # THE UNBOWED
 
-![THE UNBOWED](/images/unbowed/1.png)
+![THE UNBOWED](/images/205.png)
 
 > A monument that refuses the posture expected of grief.
 
@@ -90,26 +90,26 @@ Just without lowering.
 
 <div style="display: flex; gap: 1rem; align-items: flex-start;">
   <div style="flex: 1;">
-    <img src="/images/unbowed/13.png">
+    <img src="/images/209.png">
     <p><strong></strong></p>
   </div>
   <div style="flex: 1;">
-    <img src="/images/unbowed/9.png">
+    <img src="/images/218.png">
     <p><strong></strong></p>
   </div>
 </div>
 
 <div style="display: flex; gap: 1rem; align-items: flex-start;">
   <div style="flex: 1;">
-    <img src="/images/unbowed/6.png">
+    <img src="/images/215.png">
     <p><strong></strong></p>
   </div>
   <div style="flex: 1;">
-    <img src="/images/unbowed/8.png">
+    <img src="/images/217.png">
     <p><strong></strong></p>
   </div>
   <div style="flex: 1;">
-    <img src="/images/unbowed/11.png">
+    <img src="/images/207.png">
     <p><strong></strong></p>
   </div>
 </div>

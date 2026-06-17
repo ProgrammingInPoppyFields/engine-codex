@@ -7,7 +7,7 @@ tags:
 
 # THE EMPTY APARTMENT ENGINE
 
-![THE EMPTY APARTMENT ENGINE](/images/empty-apartment/1.png)
+![THE EMPTY APARTMENT ENGINE](/images/52.png)
 
 > One lit room holding the entire weight of a modern life.
 
@@ -92,9 +92,9 @@ It looks like a lamp left on because darkness would make the room too honest.
 
 ## Gallery
 
-<!-- ![EMPTY APARTMENT gallery image 2](/images/empty-apartment/2.png) -->
-<!-- ![EMPTY APARTMENT gallery image 3](/images/empty-apartment/3.png) -->
-<!-- ![EMPTY APARTMENT gallery image 4](/images/empty-apartment/4.png) -->
+<!-- ![EMPTY APARTMENT gallery image 2](/images/53.png) -->
+<!-- ![EMPTY APARTMENT gallery image 3](/images/54.png) -->
+<!-- ![EMPTY APARTMENT gallery image 4](/images/55.png) -->
 
 Empty for now.
 

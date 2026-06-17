@@ -7,7 +7,7 @@ tags:
 
 # SAND ↔ DUST
 
-![SAND ↔ DUST](/images/interactions/dust-sand/1.png)
+![SAND ↔ DUST](/images/101.png)
 
 > Particulate Legacies
 
@@ -59,7 +59,7 @@ The universe calls all of them dust.
 
 ## Gallery
 
-![SAND ↔ DUST gallery image 2](/images/interactions/sand-dust/2.png)
+<!-- ![SAND ↔ DUST gallery image 2](/images/interactions/sand-dust/2.png) -->
 
 ## Linked Entries
 

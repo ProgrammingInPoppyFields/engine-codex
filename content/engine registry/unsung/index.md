@@ -7,7 +7,7 @@ tags:
 
 # THE UNSUNG ENGINE
 
-![THE UNSUNG ENGINE](/images/unsung/1.png)
+![THE UNSUNG ENGINE](/images/241.png)
 
 > The ordinary thing that holds anyway.
 
@@ -87,30 +87,30 @@ UNSUNG does not ask to become marble. It does not need polish to prove it was re
 
 <div style="display: flex; gap: 1rem; align-items: flex-start;">
   <div style="flex: 1;">
-    <img src="/images/unsung/7.png">
+    <img src="/images/248.png">
     <p><strong></strong></p>
   </div>
   <div style="flex: 1;">
-    <img src="/images/unsung/8.png">
+    <img src="/images/249.png">
     <p><strong></strong></p>
   </div>
   <div style="flex: 1;">
-    <img src="/images/unsung/9.png">
+    <img src="/images/250.png">
     <p><strong></strong></p>
   </div>
 </div>
 
 <div style="display: flex; gap: 1rem; align-items: flex-start;">
   <div style="flex: 1;">
-    <img src="/images/unsung/2.png">
+    <img src="/images/243.png">
     <p><strong></strong></p>
   </div>
   <div style="flex: 1;">
-    <img src="/images/unsung/3.png">
+    <img src="/images/244.png">
     <p><strong></strong></p>
   </div>
   <div style="flex: 1;">
-    <img src="/images/unsung/4.png">
+    <img src="/images/245.png">
     <p><strong></strong></p>
   </div>
 </div>

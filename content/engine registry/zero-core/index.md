@@ -7,7 +7,7 @@ tags:
 
 # THE ZERO CORE ENGINE
 
-![](/images/zero-core/3.png)
+![](/images/307.png)
 
 > The work continues with the cost known.
 
@@ -127,10 +127,10 @@ That point is ZERO CORE.
 
 ## Gallery
 
-![](/images/zero-core/6.png)
-![](/images/zero-core/8.png)
-![](/images/zero-core/12.png)
-![](/images/zero-core/13.png)
+![](/images/310.png)
+![](/images/312.png)
+![](/images/304.png)
+![](/images/305.png)
 
 ## Special Notes
 
