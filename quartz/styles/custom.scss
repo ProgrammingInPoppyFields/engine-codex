@@ -99,15 +99,19 @@ body:not([data-slug="index"]) #quartz-body {
     position: fixed !important;
     top: 0;
     left: 0;
-    width: 40vw;
-    max-width: 40vw;
+    width: min(35vw, 420px);
+    max-width: min(35vw, 420px);
     height: 100vh;
     min-width: 0;
     overflow-y: auto;
+    overflow-x: hidden;
     z-index: 100;
     background: rgba(10, 10, 10, 0.8);
     backdrop-filter: blur(24px);
     -webkit-backdrop-filter: blur(24px);
+    transform: translateX(-100%);
+    opacity: 0;
+    pointer-events: none;
     transition: transform 0.3s ease, opacity 0.3s ease;
 
     * {
@@ -129,10 +133,10 @@ body:not([data-slug="index"]) #quartz-body {
     }
   }
 
-  body.sidebar-collapsed .left.sidebar {
-    transform: translateX(-100%);
-    opacity: 0;
-    pointer-events: none;
+  body:not(.sidebar-collapsed) .left.sidebar {
+    transform: translateX(0);
+    opacity: 1;
+    pointer-events: all;
   }
 
   .center {
@@ -213,9 +217,10 @@ body[data-slug="index"] {
 
       & > .graph-outer {
         height: calc(100vh - 4rem) !important;
-        width: 90vw !important;
-        max-width: 90vw;
-        margin-top: 2em !important;
+        width: 85% !important;
+        max-width: 85%;
+        margin: 2em auto 0 auto !important;
+        box-sizing: border-box;
         border: 1px solid var(--gray);
         border-radius: 25px;
 

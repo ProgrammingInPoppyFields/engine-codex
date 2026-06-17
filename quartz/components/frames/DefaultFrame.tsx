@@ -34,7 +34,12 @@ export const DefaultFrame: PageFrame = {
         >
           ☰
         </button>
-        <div class="left sidebar">
+        <div class="left sidebar"
+          onMouseLeave="
+            document.body.classList.add('sidebar-collapsed');
+            document.querySelector('.sidebar-toggle').textContent = '☰';
+          "
+        >
           {left.map((BodyComponent) => (
             <BodyComponent {...componentData} />
           ))}
