@@ -61,11 +61,24 @@ samp {
 
 /* Footer styling */
 footer {
-  padding: 0 3rem;
+  padding: 0 5rem;
   color: var(--gray) !important;
 
   p, a, li {
     color: var(--gray) !important;
+  }
+}
+
+/* Note properties / tags alignment */
+.note-properties {
+  text-align: left;
+
+  .note-properties-table {
+    margin: 0;
+  }
+
+  .note-properties-value {
+    justify-content: flex-start;
   }
 }
 
@@ -106,6 +119,7 @@ body:not([data-slug="index"]) #quartz-body {
     overflow-y: auto;
     overflow-x: hidden;
     z-index: 100;
+    padding: 3rem 2.5rem !important;
     background: rgba(10, 10, 10, 0.8);
     backdrop-filter: blur(24px);
     -webkit-backdrop-filter: blur(24px);
@@ -142,7 +156,7 @@ body:not([data-slug="index"]) #quartz-body {
   .center {
     min-width: 0;
     overflow-x: hidden;
-    padding: 0 3rem;
+    padding: 0 5rem;
     transition: max-width 0.3s ease;
   }
 
