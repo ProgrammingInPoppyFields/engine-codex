@@ -15,3 +15,5 @@ tags:
 - [[engine registry/white-hole|THE WHITE HOLE ENGINE]]
 - [[engine registry/black-hole|THE BLACK HOLE ENGINE]]
 - [[engine registry/unsung|THE UNSUNG ENGINE]]
+- [[engine registry/oblivion|THE OBLIVION ENGINE]]
+- [[engine registry/forgetting|THE SECOND DEATH ENGINE]]

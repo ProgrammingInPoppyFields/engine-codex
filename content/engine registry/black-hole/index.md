@@ -1,5 +1,5 @@
 ---
-title: THE BLACK HOLE ENGINE
+title: BLACK HOLE
 classification: Engine
 tags:
   - first-engines

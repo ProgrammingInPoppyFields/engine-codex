@@ -1,5 +1,5 @@
 ---
-title: THE ISOLATION ENGINE
+title: ISOLATION
 classification: Engine
 tags:
   - aftermath-engines

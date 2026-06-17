@@ -1,5 +1,5 @@
 ---
-title: THE TURQUOISE ENGINE
+title: TURQUOISE
 classification: Engine
 tags:
   - color-engines

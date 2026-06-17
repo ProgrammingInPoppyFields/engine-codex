@@ -1,5 +1,5 @@
 ---
-title: THE DIAMOND ENGINE
+title: DIAMOND
 classification: Engine
 tags:
   - material-engines

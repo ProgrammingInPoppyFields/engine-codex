@@ -1,5 +1,5 @@
 ---
-title: THE INDESCRIBABLE
+title: INDESCRIBABLE
 classification: Engine
 tags:
   - aftermath-engines

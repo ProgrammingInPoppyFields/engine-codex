@@ -1,5 +1,5 @@
 ---
-title: THE CARBIDE ENGINE
+title: CARBIDE
 classification: Engine
 tags:
   - material-engines

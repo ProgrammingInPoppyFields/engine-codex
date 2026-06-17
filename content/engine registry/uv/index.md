@@ -1,5 +1,5 @@
 ---
-title: THE ULTRAVIOLET ENGINE
+title: ULTRAVIOLET
 classification: Engine
 tags:
   - color-engines

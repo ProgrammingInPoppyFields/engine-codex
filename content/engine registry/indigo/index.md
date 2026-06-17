@@ -1,5 +1,5 @@
 ---
-title: THE INDIGO ENGINE
+title: INDIGO
 classification: Engine
 tags:
   - color-engines

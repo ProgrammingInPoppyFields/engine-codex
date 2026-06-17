@@ -1,5 +1,5 @@
 ---
-title: THE PURPLE ENGINE
+title: PURPLE
 classification: Engine
 tags:
   - color-engines

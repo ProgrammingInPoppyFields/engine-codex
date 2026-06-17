@@ -1,5 +1,5 @@
 ---
-title: THE OBLIVION ENGINE
+title: OBLIVION
 classification: Engine
 tags:
   - aftermath-engines

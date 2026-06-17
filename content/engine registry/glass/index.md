@@ -1,5 +1,5 @@
 ---
-title: THE GLASS ENGINE
+title: GLASS
 classification: Engine
 tags:
   - material-engines

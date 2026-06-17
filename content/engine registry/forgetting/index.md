@@ -1,5 +1,5 @@
 ---
-title: THE SECOND DEATH ENGINE
+title: SECOND DEATH
 classification: Engine
 tags:
   - aftermath-engines

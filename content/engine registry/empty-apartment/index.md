@@ -1,5 +1,5 @@
 ---
-title: THE EMPTY APARTMENT ENGINE
+title: EMPTY APARTMENT
 classification: Engine
 tags:
   - contemporary-engines

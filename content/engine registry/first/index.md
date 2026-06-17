@@ -1,5 +1,5 @@
 ---
-title: THE FIRST ENGINE
+title: FIRST
 classification: Engine
 tags:
   - first-engines

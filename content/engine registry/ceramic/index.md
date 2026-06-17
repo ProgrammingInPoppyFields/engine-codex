@@ -1,5 +1,5 @@
 ---
-title: THE CERAMIC ENGINE
+title: CERAMIC
 classification: Engine
 tags:
   - material-engines

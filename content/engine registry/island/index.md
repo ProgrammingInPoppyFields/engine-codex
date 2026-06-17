@@ -1,5 +1,5 @@
 ---
-title: THE ISLAND ENGINE
+title: ISLAND
 classification: Engine
 tags:
   - contemporary-engines

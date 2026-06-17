@@ -203,8 +203,7 @@ No one has apologized for this.
 * [[engine registry/gray|THE GRAY ENGINE]] — related through the color gray, cognitive load, and the humiliating suspicion that thought may not automatically produce significance.
 * [[engine registry/white-hole|THE WHITE HOLE ENGINE]] — distant relation through emission, expansion, and uncontrolled output.
 * [[engine registry/black-hole|THE BLACK HOLE ENGINE]] — distant relation through density, gravity, and cosmic scale.
-* [[engine registry/signal|THE SIGNAL ENGINE]] — related to WHITE MATTER through transmission and routed presence.
-* [[engine registry/broadcast|THE BROADCAST ENGINE]] — related through outward signal behavior and the burden of reception.
+* [[engine families/emanation-engines|THE EMANATION ENGINES]] — related to WHITE MATTER through transmission and routed presence.
 
 ## Gallery
 

@@ -1,5 +1,5 @@
 ---
-title: THE WHITE HOLE ENGINE
+title: WHITE HOLE
 classification: Engine
 tags:
   - first-engines

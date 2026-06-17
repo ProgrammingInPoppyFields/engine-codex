@@ -1,5 +1,5 @@
 ---
-title: THE PINK ENGINE
+title: PINK
 classification: Engine
 tags:
   - color-engines

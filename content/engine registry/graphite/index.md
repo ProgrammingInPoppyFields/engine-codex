@@ -1,5 +1,5 @@
 ---
-title: THE GRAPHITE ENGINE
+title: GRAPHITE
 classification: Engine
 tags:
   - material-engines

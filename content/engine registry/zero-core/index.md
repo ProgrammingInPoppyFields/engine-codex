@@ -1,5 +1,5 @@
 ---
-title: THE ZERO CORE ENGINE
+title: ZERO CORE
 classification: Engine
 tags:
   - contemporary-engines
