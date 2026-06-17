@@ -20,7 +20,7 @@ button {
 .site-title,
 .sidebar .page-title,
 .sidebar .site-title {
-  font-family: "Orbitron", "Space Grotesk", sans-serif !important;
+  font-family: "Exo 2", sans-serif !important;
   text-transform: uppercase;
   letter-spacing: 0.16em;
   font-weight: 600;
@@ -76,40 +76,39 @@ body:not([data-slug="index"]) .right.sidebar {
 
 body:not([data-slug="index"]) #quartz-body {
   @media all and (min-width: 1200px) {
-    grid-template-columns: auto 1fr !important;
+    grid-template-columns: 1fr !important;
     grid-template-areas:
-      "grid-sidebar-left grid-header"
-      "grid-sidebar-left grid-center"
-      "grid-sidebar-left grid-footer" !important;
-  }
-}
-
-body:not([data-slug="index"]).sidebar-collapsed #quartz-body {
-  @media all and (min-width: 1200px) {
-    grid-template-columns: 0px 1fr !important;
+      "grid-header"
+      "grid-center"
+      "grid-footer" !important;
   }
 }
 
 /* Collapsible left sidebar */
 @media all and (min-width: 1200px) {
   #quartz-body {
-    grid-template-columns: auto 1fr 320px !important;
+    grid-template-columns: 1fr !important;
+    grid-template-areas:
+      "grid-header"
+      "grid-center"
+      "grid-footer" !important;
     transition: grid-template-columns 0.3s ease;
   }
 
-  body.sidebar-collapsed #quartz-body {
-    grid-template-columns: 0px 1fr 320px !important;
-  }
-
   .left.sidebar {
+    position: fixed !important;
+    top: 0;
+    left: 0;
     width: 40vw;
     max-width: 40vw;
+    height: 100vh;
     min-width: 0;
     overflow-y: auto;
-    background: rgba(30, 30, 30, 0.7);
+    z-index: 100;
+    background: rgba(10, 10, 10, 0.8);
     backdrop-filter: blur(24px);
     -webkit-backdrop-filter: blur(24px);
-    transition: width 0.3s ease, max-width 0.3s ease, padding 0.3s ease, opacity 0.3s ease;
+    transition: transform 0.3s ease, opacity 0.3s ease;
 
     * {
       font-family: "IBM Plex Mono", monospace !important;
@@ -117,7 +116,7 @@ body:not([data-slug="index"]).sidebar-collapsed #quartz-body {
 
     h2.page-title,
     h2.page-title a {
-      font-family: "Orbitron", "Space Grotesk", sans-serif !important;
+      font-family: "Exo 2", sans-serif !important;
       text-transform: uppercase;
       letter-spacing: 0.16em;
     }
@@ -131,12 +130,9 @@ body:not([data-slug="index"]).sidebar-collapsed #quartz-body {
   }
 
   body.sidebar-collapsed .left.sidebar {
-    width: 0;
-    max-width: 0;
-    padding-left: 0 !important;
-    padding-right: 0 !important;
-    overflow: hidden;
+    transform: translateX(-100%);
     opacity: 0;
+    pointer-events: none;
   }
 
   .center {
@@ -181,18 +177,12 @@ body:not([data-slug="index"]).sidebar-collapsed #quartz-body {
 body[data-slug="index"] {
   #quartz-body {
     @media all and (min-width: 1200px) {
-      grid-template-columns: auto 1fr !important;
+      grid-template-columns: 1fr !important;
       grid-template-areas:
-        "grid-sidebar-left grid-sidebar-right"
-        "grid-sidebar-left grid-header"
-        "grid-sidebar-left grid-center"
-        "grid-sidebar-left grid-footer";
-    }
-  }
-
-  &.sidebar-collapsed #quartz-body {
-    @media all and (min-width: 1200px) {
-      grid-template-columns: 0px 1fr !important;
+        "grid-sidebar-right"
+        "grid-header"
+        "grid-center"
+        "grid-footer" !important;
     }
   }
 
