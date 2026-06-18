@@ -7,7 +7,7 @@ tags:
 
 # THE ASH ENGINE
 
-<!-- ![THE ASH ENGINE](/images/particulate-trio/ash/1.png) -->
+<!-- ![THE ASH ENGINE](/images/374.png) -->
 
 > What remains after heat has made its argument.
 
@@ -82,11 +82,23 @@ It is what remains when the event is over and the body of the event has become p
 
 ## Gallery
 
-<!-- ![ASH gallery image 2](/images/particulate-trio/ash/2.png) -->
+<div style="display: flex; gap: 1rem; align-items: flex-start;">
+    <div style="flex: 1;">
+    <img src="/images/375.png">
+    <p><strong></strong></p>
+  </div>
+</div>
 
-<!-- ![ASH gallery image 3](/images/particulate-trio/ash/3.png) -->
-
-<!-- ![ASH gallery image 4](/images/particulate-trio/ash/4.png) -->
+<div style="display: flex; gap: 1rem; align-items: flex-start;">
+    <div style="flex: 1;">
+    <img src="/images/376.png">
+    <p><strong></strong></p>
+  </div>
+  <div style="flex: 1;">
+    <img src="/images/377.png">
+    <p><strong></strong></p>
+  </div>
+</div>
 
 ## Special Notes
 

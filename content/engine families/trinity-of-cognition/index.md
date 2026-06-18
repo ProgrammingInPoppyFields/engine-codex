@@ -7,9 +7,9 @@ tags:
 
 # THE TRINITY OF COGNITION
 
-![THE TRINITY OF COGNITION](/images/198.png)
+![THE TRINITY OF COGNITION](/images/370.png)
 
-> Feeling, governance, and mechanism arranged as one unstable system.
+> From left to right: UNIT, AUTOPILOT, NULL. Feeling, governance, and mechanism arranged as one unstable system.
 
 ## Aliases
 
@@ -116,14 +116,6 @@ Void-black — anti-light, edge-deleting absence of signal; not pigment, not sha
 ## Relations / Linked Entries
 
 No known relations currently listed.
-
-## Gallery
-
-From left to right: UNIT, AUTOPILOT, NULL
-
-![TRINITY OF COGNITION gallery image 3](/images/199.png)
-
-![TRINITY OF COGNITION gallery image 4](/images/200.png)
 
 ## Special Notes
 

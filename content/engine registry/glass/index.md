@@ -7,7 +7,7 @@ tags:
 
 # THE GLASS ENGINE
 
-![THE GLASS ENGINE](/images/340.png)
+![THE GLASS ENGINE](/images/373.png)
 
 > Transparency is not the same thing as safety.
 
@@ -100,26 +100,8 @@ GLASS is dangerous because it seems like it is not holding anything back.
 </div>
 
 <div style="display: flex; gap: 1rem; align-items: flex-start;">
-  <div style="flex: 1;">
-    <img src="/images/327.png">
-    <p><strong></strong></p>
-  </div>
-  <div style="flex: 1;">
-    <img src="/images/339.png">
-    <p><strong></strong></p>
-  </div>
-</div>
-
-<div style="display: flex; gap: 1rem; align-items: flex-start;">
-  <div style="flex: 1;">
+    <div style="flex: 1;">
     <img src="/images/338.png">
-    <p><strong></strong></p>
-  </div>
-</div>
-
-<div style="display: flex; gap: 1rem; align-items: flex-start;">
-  <div style="flex: 1;">
-    <img src="/images/361.png">
     <p><strong></strong></p>
   </div>
   <div style="flex: 1;">

@@ -7,7 +7,7 @@ tags:
 
 # THE SAND ENGINE
 
-![THE SAND ENGINE](/images/174.png)
+![THE SAND ENGINE](/images/180.png)
 
 > The youngest ending, loud enough to get everywhere.
 
@@ -84,11 +84,45 @@ It polishes the surface by bothering it for a very long time.
 
 ## Gallery
 
-![SAND gallery image 2](/images/175.png)
+<div style="display: flex; gap: 1rem; align-items: flex-start;">
+  <div style="flex: 1;">
+    <img src="/images/176.png">
+    <p><strong></strong></p>
+  </div>
+    <div style="flex: 1;">
+    <img src="/images/179.png">
+    <p><strong></strong></p>
+  </div>
+</div>
 
-![SAND gallery image 3](/images/176.png)
+<div style="display: flex; gap: 1rem; align-items: flex-start;">
+  <div style="flex: 1;">
+    <img src="/images/173.png">
+    <p><strong></strong></p>
+  </div>
+    <div style="flex: 1;">
+    <img src="/images/175.png">
+    <p><strong></strong></p>
+  </div>
+</div>
 
-![SAND gallery image 4](/images/177.png)
+<div style="display: flex; gap: 1rem; align-items: flex-start;">
+  <div style="flex: 1;">
+    <img src="/images/363.png">
+    <p><strong></strong></p>
+  </div>
+    <div style="flex: 1;">
+    <img src="/images/364.png">
+    <p><strong></strong></p>
+  </div>
+</div>
+
+<div style="display: flex; gap: 1rem; align-items: flex-start;">
+  <div style="flex: 1;">
+    <img src="/images/366.png">
+    <p><strong></strong></p>
+  </div>
+</div>
 
 ## Special Notes
 

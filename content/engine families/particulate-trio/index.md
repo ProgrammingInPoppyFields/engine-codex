@@ -7,7 +7,9 @@ tags:
 
 # THE PARTICULATE TRIO
 
-> The Particulate Finalities.
+![](/images/385.png)
+
+> From left to right: DUST, SAND, ASH. The Particulate Finalities.
 
 SAND, ASH, and DUST form a particulate sequence of matter reduced, carried, scattered, and returned.
 

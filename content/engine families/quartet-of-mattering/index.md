@@ -7,9 +7,10 @@ tags:
 
 # THE FOUR MONOLITHS OF MATTER
 
-![THE FOUR MONOLITHS OF MATTER](/images/154.png)
+![THE FOUR MONOLITHS OF MATTER](/images/383.png)
 
-> Four massive ways matter refuses to remain merely physical.
+> 
+From left to right: Dark Matter, Antimatter, White Matter, and Gray Matter. Four massive ways matter refuses to remain merely physical.
 
 ## Aliases
 
@@ -204,18 +205,6 @@ No one has apologized for this.
 * [[engine registry/white-hole|THE WHITE HOLE ENGINE]] — distant relation through emission, expansion, and uncontrolled output.
 * [[engine registry/black-hole|THE BLACK HOLE ENGINE]] — distant relation through density, gravity, and cosmic scale.
 * [[engine families/emanation-engines|THE EMANATION ENGINES]] — related to WHITE MATTER through transmission and routed presence.
-
-## Gallery
-
-From left to right: Dark Matter, Antimatter, White Matter, and Gray Matter
-
-![MONOLITHS gallery image 2](/images/147.png)
-
-![MONOLITHS gallery image 3](/images/148.png)
-
-![MONOLITHS gallery image 4](/images/150.png)
-
-![MONOLITHS gallery image 5](/images/151.png)
 
 ## Special Notes
 
