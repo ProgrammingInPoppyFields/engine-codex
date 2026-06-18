@@ -167,7 +167,6 @@ The distinction is clinically important and morally unpleasant.
 
 ## Relations / Linked Entries
 
-* [[engine registry/untested|THE UNTESTED ENGINE]] — adjacent through envy of ordeal and the desire for damage as proof.
 * [[engine registry/diamond|THE DIAMOND DRIVE]] — contrast relation; DIAMOND becomes brilliant through pressure, while THE UNFORGED imitates pressure’s aesthetic residue.
 * [[engine registry/purple|THE PURPLE ENGINE]] — adjacent through proof, recognition, and the dangerous pattern where injury becomes what makes something count.
 * [[engine registry/gray|THE GRAY ENGINE]] — adjacent through comparison, insufficiency, and the terror of having no distinguishing ordeal.

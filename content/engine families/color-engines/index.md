@@ -59,7 +59,8 @@ They are threshold colors.
 PINK is almost red, almost flesh, almost wound, almost tenderness.  
 INDIGO is almost blue, almost night, almost knowledge, almost resolution.  
 TURQUOISE is almost blue, almost green, almost choice, almost direction.  
-GRAY is almost white, almost black, almost clarified, almost finished.
+GRAY is almost white, almost black, almost clarified, almost finished.  
+CLARET is almost healed, almost resolved, almost closed, almost past.
 
 Each remains suspended between meanings without receiving the comfort of final category.
 
@@ -67,6 +68,7 @@ Each remains suspended between meanings without receiving the comfort of final c
 - [[engine registry/indigo|THE INDIGO DRIVE]]
 - [[engine registry/turquoise|THE TURQUOISE DRIVE]]
 - [[engine registry/gray|THE GRAY ENGINE]]
+- [[engine registry/claret|THE CLARET ENGINE]]
 
 ### THE RESOLVED COLOR
 
@@ -106,6 +108,7 @@ Together, they form a spectrum of perceptual pressure: unseen presence, unstable
 - [[engine registry/indigo|THE INDIGO DRIVE]]
 - [[engine registry/turquoise|THE TURQUOISE DRIVE]]
 - [[engine registry/gray|THE GRAY ENGINE]]
+- [[engine registry/claret|THE CLARET ENGINE]]
 - [[engine registry/purple|THE PURPLE ENGINE]]
 
 ## Special Notes

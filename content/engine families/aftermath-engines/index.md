@@ -13,6 +13,5 @@ tags:
 
 - [[engine registry/forgetting|THE SECOND DEATH ENGINE]]
 - [[engine registry/oblivion|THE OBLIVION ENGINE]]
-- [[engine registry/untested|THE UNTESTED ENGINE]]
 - [[engine registry/isolation|THE ISOLATION ENGINE]]
 - [[engine registry/indescribable|THE INDESCRIBABLE]]
