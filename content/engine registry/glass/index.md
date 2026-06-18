@@ -7,7 +7,7 @@ tags:
 
 # THE GLASS ENGINE
 
-![THE GLASS ENGINE](/images/66.png)
+![THE GLASS ENGINE](/images/340.png)
 
 > Transparency is not the same thing as safety.
 
@@ -88,11 +88,45 @@ GLASS is dangerous because it seems like it is not holding anything back.
 
 ## Gallery
 
-![GLASS gallery image](/images/68.png)
-![GLASS gallery image](/images/70.png)
-<!-- ![GLASS gallery image](/images/glass/4.png) -->
-![GLASS gallery image](/images/69.png)
-![GLASS gallery image](/images/65.png)
+<div style="display: flex; gap: 1rem; align-items: flex-start;">
+  <div style="flex: 1;">
+    <img src="/images/66.png">
+    <p><strong></strong></p>
+  </div>
+  <div style="flex: 1;">
+    <img src="/images/69.png">
+    <p><strong></strong></p>
+  </div>
+</div>
+
+<div style="display: flex; gap: 1rem; align-items: flex-start;">
+  <div style="flex: 1;">
+    <img src="/images/327.png">
+    <p><strong></strong></p>
+  </div>
+  <div style="flex: 1;">
+    <img src="/images/339.png">
+    <p><strong></strong></p>
+  </div>
+</div>
+
+<div style="display: flex; gap: 1rem; align-items: flex-start;">
+  <div style="flex: 1;">
+    <img src="/images/338.png">
+    <p><strong></strong></p>
+  </div>
+</div>
+
+<div style="display: flex; gap: 1rem; align-items: flex-start;">
+  <div style="flex: 1;">
+    <img src="/images/361.png">
+    <p><strong></strong></p>
+  </div>
+  <div style="flex: 1;">
+    <img src="/images/362.png">
+    <p><strong></strong></p>
+  </div>
+</div>
 
 ## Special Notes
 

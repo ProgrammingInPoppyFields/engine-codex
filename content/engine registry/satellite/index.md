@@ -7,7 +7,7 @@ tags:
 
 # THE SATELLITE ENGINE
 
-![THE SATELLITE ENGINE](/images/satellite/1.png)
+![](/images/325.png)
 
 > The signal comes from above, and there is no one up there.
 
@@ -71,6 +71,31 @@ SATELLITE is the Engine of global reach at the cost of proximity. Everything is 
 ## Relations / Linked Entries
 
 - [[engine families/emanation-engines|THE EMANATION ENGINES]]
+
+## Gallery
+
+<div style="display: flex; gap: 1rem; align-items: flex-start;">
+  <div style="flex: 1;">
+    <img src="/images/326.png">
+    <p><strong></strong></p>
+  </div>
+  <div style="flex: 1;">
+    <img src="/images/328.png">
+    <p><strong></strong></p>
+  </div>
+</div>
+
+  <div style="display: flex; gap: 1rem; align-items: flex-start;">
+  <div style="flex: 1;">
+    <img src="/images/333.png">
+    <p><strong></strong></p>
+  </div>
+  <div style="flex: 1;">
+    <img src="/images/334.png">
+    <p><strong></strong></p>
+  </div>
+</div>
+
 
 ## Special Notes
 

@@ -82,9 +82,20 @@ This is not necessarily a mercy.
 
 ## Gallery
 
-![DIAMOND gallery image 2](/images/44.png)
-![DIAMOND gallery image 3](/images/45.png)
-![DIAMOND gallery image 4](/images/46.png)
+<div style="display: flex; gap: 1rem; align-items: flex-start;">
+  <div style="flex: 1;">
+    <img src="/images/44.png">
+    <p><strong></strong></p>
+  </div>
+  <div style="flex: 1;">
+    <img src="/images/45.png">
+    <p><strong></strong></p>
+  </div>
+  <div style="flex: 1;">
+    <img src="/images/46.png">
+    <p><strong></strong></p>
+  </div>
+</div>
 
 Empty for now.
 

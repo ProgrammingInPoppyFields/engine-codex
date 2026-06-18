@@ -7,7 +7,7 @@ tags:
 
 # THE FIBER OPTIC ENGINE
 
-![THE FIBER OPTIC ENGINE](/images/fiber-optic/1.png)
+![THE FIBER OPTIC ENGINE](/images/357.png)
 
 > Light, buried alive, carrying everything.
 
@@ -70,6 +70,29 @@ FIBER OPTIC is the Engine of infrastructure so complete it has become geological
 ## Relations / Linked Entries
 
 - [[engine families/emanation-engines|THE EMANATION ENGINES]]
+
+## Gallery
+
+<div style="display: flex; gap: 1rem; align-items: flex-start;">
+  <div style="flex: 1;">
+    <img src="/images/354.png">
+    <p><strong></strong></p>
+  </div>
+</div>
+
+<div style="display: flex; gap: 1rem; align-items: flex-start;">
+  <div style="flex: 1;">
+    <img src="/images/359.png">
+    <p><strong></strong></p>
+  </div>
+</div>
+
+<div style="display: flex; gap: 1rem; align-items: flex-start;">
+  <div style="flex: 1;">
+    <img src="/images/358.png">
+    <p><strong></strong></p>
+  </div>
+</div>
 
 ## Special Notes
 

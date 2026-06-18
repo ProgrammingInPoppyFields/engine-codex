@@ -7,8 +7,6 @@ tags:
 
 # THE EMANATION ENGINES
 
-![THE EMANATION ENGINES](/images/emanation-engines/1.png)
-
 > Presence leaving itself.
 
 ## Aliases

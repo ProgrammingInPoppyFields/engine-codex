@@ -7,9 +7,9 @@ tags:
 
 # THE SONAR ENGINE
 
-![THE SONAR ENGINE](/images/sonar/1.png)
+![THE SONAR ENGINE](/images/350.png)
 
-> Sound sent into darkness. Shape returned from pressure.
+> While RADAR sends sound into the sky, SONAR sends into the dark. Shape is returned from pressure.
 
 ## Aliases
 
@@ -70,6 +70,30 @@ Submarines, whales, seafloor terrain, shipwrecks, mines — all become knowable 
 ## Relations / Linked Entries
 
 - [[engine families/emanation-engines|THE EMANATION ENGINES]]
+
+## Gallery
+
+<div style="display: flex; gap: 1rem; align-items: flex-start;">
+  <div style="flex: 1;">
+    <img src="/images/351.png">
+    <p><strong></strong></p>
+  </div>
+</div>
+
+<div style="display: flex; gap: 1rem; align-items: flex-start;">
+  <div style="flex: 1;">
+    <img src="/images/349.png">
+    <p><strong></strong></p>
+  </div>
+</div>
+
+<div style="display: flex; gap: 1rem; align-items: flex-start;">
+  <div style="flex: 1;">
+    <img src="/images/353.png">
+    <p><strong></strong></p>
+  </div>
+</div>
+
 
 ## Special Notes
 

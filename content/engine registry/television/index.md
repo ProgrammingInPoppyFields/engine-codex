@@ -7,7 +7,8 @@ tags:
 
 # THE TELEVISION ENGINE
 
-![THE TELEVISION ENGINE](/images/television/1.png)
+![THE TELEVISION ENGINE](/images/331.png)
+![THE TELEVISION ENGINE](/images/332.png)
 
 > The same image enters every room at once.
 

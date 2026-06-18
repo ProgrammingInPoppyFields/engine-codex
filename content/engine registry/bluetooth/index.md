@@ -7,7 +7,7 @@ tags:
 
 # THE BLUETOOTH ENGINE
 
-![THE BLUETOOTH ENGINE](/images/bluetooth/1.png)
+![THE BLUETOOTH ENGINE](/images/195.png)
 
 > The smallest possible trust.
 

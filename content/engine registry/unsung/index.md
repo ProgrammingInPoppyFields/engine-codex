@@ -7,7 +7,7 @@ tags:
 
 # THE UNSUNG ENGINE
 
-![THE UNSUNG ENGINE](/images/241.png)
+![THE UNSUNG ENGINE](/images/318.png)
 
 > The ordinary thing that holds anyway.
 
@@ -86,16 +86,16 @@ UNSUNG does not ask to become marble. It does not need polish to prove it was re
 ## Gallery
 
 <div style="display: flex; gap: 1rem; align-items: flex-start;">
+<div style="flex: 1;">
+    <img src="/images/241.png">
+    <p><strong></strong></p>
+  </div>
   <div style="flex: 1;">
     <img src="/images/248.png">
     <p><strong></strong></p>
   </div>
   <div style="flex: 1;">
     <img src="/images/249.png">
-    <p><strong></strong></p>
-  </div>
-  <div style="flex: 1;">
-    <img src="/images/250.png">
     <p><strong></strong></p>
   </div>
 </div>
@@ -111,6 +111,28 @@ UNSUNG does not ask to become marble. It does not need polish to prove it was re
   </div>
   <div style="flex: 1;">
     <img src="/images/245.png">
+    <p><strong></strong></p>
+  </div>
+</div>
+
+<div style="display: flex; gap: 1rem; align-items: flex-start;">
+  <div style="flex: 1;">
+    <img src="/images/319.png">
+    <p><strong></strong></p>
+  </div>
+  <div style="flex: 1;">
+    <img src="/images/316.png">
+    <p><strong></strong></p>
+  </div>
+</div>
+
+<div style="display: flex; gap: 1rem; align-items: flex-start;">
+  <div style="flex: 1;">
+    <img src="/images/314.png">
+    <p><strong></strong></p>
+  </div>
+  <div style="flex: 1;">
+    <img src="/images/315.png">
     <p><strong></strong></p>
   </div>
 </div>

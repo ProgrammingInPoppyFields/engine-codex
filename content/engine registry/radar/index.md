@@ -7,7 +7,7 @@ tags:
 
 # THE RADAR ENGINE
 
-![THE RADAR ENGINE](/images/radar/1.png)
+![THE RADAR ENGINE](/images/342.png)
 
 > Ask the sky a question. Learn the answer by what comes back.
 
@@ -70,6 +70,47 @@ This makes it indispensable to safety, warfare, weather prediction, and navigati
 ## Relations / Linked Entries
 
 - [[engine families/emanation-engines|THE EMANATION ENGINES]]
+
+## Gallery
+
+<div style="display: flex; gap: 1rem; align-items: flex-start;">
+  <div style="flex: 1;">
+    <img src="/images/336.png">
+    <p><strong></strong></p>
+  </div>
+  <div style="flex: 1;">
+    <img src="/images/337.png">
+    <p><strong></strong></p>
+  </div>
+</div>
+
+<div style="display: flex; gap: 1rem; align-items: flex-start;">
+  <div style="flex: 1;">
+    <img src="/images/341.png">
+    <p><strong></strong></p>
+  </div>
+</div>
+
+<div style="display: flex; gap: 1rem; align-items: flex-start;">
+  <div style="flex: 1;">
+    <img src="/images/335.png">
+    <p><strong></strong></p>
+  </div>
+</div>
+
+<div style="display: flex; gap: 1rem; align-items: flex-start;">
+  <div style="flex: 1;">
+    <img src="/images/344.png">
+    <p><strong></strong></p>
+  </div>
+</div>
+
+<div style="display: flex; gap: 1rem; align-items: flex-start;">
+  <div style="flex: 1;">
+    <img src="/images/347.png">
+    <p><strong></strong></p>
+  </div>
+</div>
 
 ## Special Notes
 

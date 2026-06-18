@@ -7,9 +7,9 @@ tags:
 
 # THE ULTRAVIOLET ENGINE
 
-![THE ULTRAVIOLET ENGINE](/images/255.png)
+![THE ULTRAVIOLET ENGINE](/images/321.png)
 
-> Present, but not available to the eye.
+> Present, but not available to the human eye.
 
 ## Aliases
 
@@ -97,6 +97,13 @@ It has already entered the room.
 
 <div style="display: flex; gap: 1rem; align-items: flex-start;">
   <div style="flex: 1;">
+    <img src="/images/255.png">
+    <p><strong></strong></p>
+  </div>
+</div>
+
+<div style="display: flex; gap: 1rem; align-items: flex-start;">
+  <div style="flex: 1;">
     <img src="/images/262.png">
     <p><strong></strong></p>
   </div>
@@ -128,6 +135,28 @@ It has already entered the room.
   </div>
   <div style="flex: 1;">
     <img src="/images/256.png">
+    <p><strong></strong></p>
+  </div>
+</div>
+
+<div style="display: flex; gap: 1rem; align-items: flex-start;">
+  <div style="flex: 1;">
+    <img src="/images/323.png">
+    <p><strong></strong></p>
+  </div>
+  <div style="flex: 1;">
+    <img src="/images/324.png">
+    <p><strong></strong></p>
+  </div>
+</div>
+
+<div style="display: flex; gap: 1rem; align-items: flex-start;">
+  <div style="flex: 1;">
+    <img src="/images/320.png">
+    <p><strong></strong></p>
+  </div>
+  <div style="flex: 1;">
+    <img src="/images/322.png">
     <p><strong></strong></p>
   </div>
 </div>
