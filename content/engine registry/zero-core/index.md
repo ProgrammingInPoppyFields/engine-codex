@@ -123,7 +123,7 @@ That point is ZERO CORE.
 
 ## Relations / Linked Entries
 
-- [[engine registry/carbide|THE CARBIDE ENGINE]] — related through engineered endurance and operation under hostile conditions.
+- [[engine registry/silicon-carbide|THE SILICON CARBIDE ENGINE]] — related through engineered endurance and operation under hostile conditions.
 
 ## Special Notes
 

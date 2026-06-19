@@ -7,7 +7,7 @@ tags:
 
 # THE ASH ENGINE
 
-<!-- ![THE ASH ENGINE](/images/374.jpg) -->
+![THE ASH ENGINE](/images/374.jpg)
 
 > What remains after heat has made its argument.
 

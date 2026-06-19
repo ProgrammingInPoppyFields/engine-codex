@@ -7,7 +7,7 @@ tags:
 
 # THE PARTICULATE TRIO
 
-![](/images/385.jpg)
+![](/images/384.jpg)
 
 > From left to right: DUST, SAND, ASH. The Particulate Finalities.
 
