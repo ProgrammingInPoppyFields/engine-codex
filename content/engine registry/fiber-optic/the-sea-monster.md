@@ -7,7 +7,7 @@ tags:
 
 # THE SEA MONSTER
 
-![](/images/432.png)
+![](/images/432.jpg)
 
 > FIBER OPTIC, APPROX. 4,200 METERS BELOW SEA LEVEL
 

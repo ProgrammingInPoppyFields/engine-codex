@@ -10,7 +10,7 @@ tags:
 
 > THE STAR ENVIES THE NEBULA
 
-![](/images/430.png)
+![](/images/430.jpg)
 
 PURPLE was once a star.
 

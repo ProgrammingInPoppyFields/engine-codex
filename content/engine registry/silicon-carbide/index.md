@@ -7,7 +7,7 @@ tags:
 
 # THE SILICON CARBIDE ENGINE
 
-![THE SILICON CARBIDE ENGINE](/images/408.png)
+![THE SILICON CARBIDE ENGINE](/images/408.jpg)
 
 > Silicon after it stopped expecting mercy.
 
@@ -240,22 +240,22 @@ THE SILICON CARBIDE ENGINE is what happens when silicon is made responsible for 
 
 <div style="display: flex; gap: 1rem; align-items: flex-start;">
     <div style="flex: 1;">
-        <img src="/images/402.png">
+        <img src="/images/402.jpg">
         <p><strong>Mineral Form 1</strong></p>
     </div>
     <div style="flex: 1;">
-        <img src="/images/400.png">
+        <img src="/images/400.jpg">
         <p><strong>Mineral Form 2</strong></p>
     </div>
 </div>
 
 <div style="display: flex; gap: 1rem; align-items: flex-start;">
     <div style="flex: 1;">
-        <img src="/images/408.png">
+        <img src="/images/408.jpg">
         <p><strong>Ball Grid 1</strong></p>
     </div>
     <div style="flex: 1;">
-        <img src="/images/413.png">
+        <img src="/images/413.jpg">
         <p><strong>Ball Grid 2</strong></p>
     </div>
 </div>
@@ -263,11 +263,11 @@ THE SILICON CARBIDE ENGINE is what happens when silicon is made responsible for 
 
 <div style="display: flex; gap: 1rem; align-items: flex-start;">
     <div style="flex: 1;">
-        <img src="/images/414.png">
+        <img src="/images/414.jpg">
         <p><strong>Die Reliquary 1</strong></p>
     </div>
     <div style="flex: 1;">
-        <img src="/images/415.png">
+        <img src="/images/415.jpg">
         <p><strong>Die Reliquary 2</strong></p>
     </div>
 </div>

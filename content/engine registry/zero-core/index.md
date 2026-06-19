@@ -7,7 +7,7 @@ tags:
 
 # THE ZERO CORE ENGINE
 
-![](/images/423.png)
+![](/images/423.jpg)
 
 > The work continues with the cost known.
 
@@ -153,11 +153,11 @@ That point is ZERO CORE.
 
 <div style="display: flex; gap: 1rem; align-items: flex-start;">
   <div style="flex: 1;">
-    <img src="/images/421.png">
+    <img src="/images/421.jpg">
     <p><strong></strong></p>
   </div>
   <div style="flex: 1;">
-    <img src="/images/422.png">
+    <img src="/images/422.jpg">
     <p><strong></strong></p>
   </div>
 </div>

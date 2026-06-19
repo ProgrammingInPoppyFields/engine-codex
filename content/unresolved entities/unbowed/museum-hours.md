@@ -6,7 +6,7 @@ tags:
 
 # MUSEUM HOURS
 
-![](/images/211.png)
+![](/images/211.jpg)
 
 > UNBOWED IN THE MUSEUM CORNER
 

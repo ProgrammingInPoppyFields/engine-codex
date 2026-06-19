@@ -9,7 +9,7 @@ tags:
 
 > RADIO OUTLIVES ITS SENDERS
 
-![](/images/441.png)
+![](/images/441.jpg)
 
 RADIO has many forms.
 

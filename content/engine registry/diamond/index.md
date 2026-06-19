@@ -7,7 +7,7 @@ tags:
 
 # THE DIAMOND ENGINE
 
-![THE DIAMOND ENGINE](/images/416.png)
+![THE DIAMOND ENGINE](/images/416.jpg)
 
 > Want, made hard enough to cut.
 

@@ -100,22 +100,22 @@ In emergency, RADIO becomes essential. When networks fail, towers fall, and scre
 
 <div style="display: flex; gap: 1rem; align-items: flex-start;">
   <div style="flex: 1;">
-    <img src="/images/439.png">
+    <img src="/images/439.jpg">
     <p><strong></strong></p>
   </div>
   <div style="flex: 1;">
-    <img src="/images/440.png">
+    <img src="/images/440.jpg">
     <p><strong></strong></p>
   </div>
 </div>
 
 <div style="display: flex; gap: 1rem; align-items: flex-start;">
   <div style="flex: 1;">
-    <img src="/images/437.png">
+    <img src="/images/437.jpg">
     <p><strong></strong></p>
   </div>
   <div style="flex: 1;">
-    <img src="/images/442.png">
+    <img src="/images/442.jpg">
     <p><strong></strong></p>
   </div>
 </div>
