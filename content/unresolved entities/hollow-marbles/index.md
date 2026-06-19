@@ -176,27 +176,27 @@ The distinction is clinically important and morally unpleasant.
 
 ## Gallery
 
-<div style="display: flex; gap: 1rem; align-items: flex-start;">
-  <div style="flex: 1;">
+<div class="gallery-row">
+  <div class="gallery-item">
     <img src="/images/222.jpg">
     <p><strong></strong></p>
   </div>
-  <div style="flex: 1;">
+  <div class="gallery-item">
     <img src="/images/223.jpg">
     <p><strong></strong></p>
   </div>
 </div>
 
-<div style="display: flex; gap: 1rem; align-items: flex-start;">
-  <div style="flex: 1;">
+<div class="gallery-row">
+  <div class="gallery-item">
     <img src="/images/224.jpg">
     <p><strong></strong></p>
   </div>
-  <div style="flex: 1;">
+  <div class="gallery-item">
     <img src="/images/228.jpg">
     <p><strong></strong></p>
   </div>
-  <div style="flex: 1;">
+  <div class="gallery-item">
     <img src="/images/230.jpg">
     <p><strong></strong></p>
   </div>

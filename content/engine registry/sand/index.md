@@ -89,41 +89,41 @@ It polishes the surface by bothering it for a very long time.
 - SAND is what happens when stone becomes annoyingly democratic.
 ## Gallery
 
-<div style="display: flex; gap: 1rem; align-items: flex-start;">
-  <div style="flex: 1;">
+<div class="gallery-row">
+  <div class="gallery-item">
     <img src="/images/176.jpg">
     <p><strong></strong></p>
   </div>
-    <div style="flex: 1;">
+    <div class="gallery-item">
     <img src="/images/179.jpg">
     <p><strong></strong></p>
   </div>
 </div>
 
-<div style="display: flex; gap: 1rem; align-items: flex-start;">
-  <div style="flex: 1;">
+<div class="gallery-row">
+  <div class="gallery-item">
     <img src="/images/173.jpg">
     <p><strong></strong></p>
   </div>
-    <div style="flex: 1;">
+    <div class="gallery-item">
     <img src="/images/175.jpg">
     <p><strong></strong></p>
   </div>
 </div>
 
-<div style="display: flex; gap: 1rem; align-items: flex-start;">
-  <div style="flex: 1;">
+<div class="gallery-row">
+  <div class="gallery-item">
     <img src="/images/363.jpg">
     <p><strong></strong></p>
   </div>
-    <div style="flex: 1;">
+    <div class="gallery-item">
     <img src="/images/364.jpg">
     <p><strong></strong></p>
   </div>
 </div>
 
-<div style="display: flex; gap: 1rem; align-items: flex-start;">
-  <div style="flex: 1;">
+<div class="gallery-row">
+  <div class="gallery-item">
     <img src="/images/366.jpg">
     <p><strong></strong></p>
   </div>

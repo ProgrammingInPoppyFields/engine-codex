@@ -80,41 +80,41 @@ In emergency, RADIO becomes essential. When networks fail, towers fall, and scre
 
 ## Gallery
 
-<div style="display: flex; gap: 1rem; align-items: flex-start;">
-  <div style="flex: 1;">
+<div class="gallery-row">
+  <div class="gallery-item">
     <img src="/images/352.jpg">
     <p><strong></strong></p>
   </div>
 </div>
 
-<div style="display: flex; gap: 1rem; align-items: flex-start;">
-  <div style="flex: 1;">
+<div class="gallery-row">
+  <div class="gallery-item">
     <img src="/images/356.jpg">
     <p><strong></strong></p>
   </div>
-  <div style="flex: 1;">
+  <div class="gallery-item">
     <img src="/images/360.jpg">
     <p><strong></strong></p>
   </div>
 </div>
 
-<div style="display: flex; gap: 1rem; align-items: flex-start;">
-  <div style="flex: 1;">
+<div class="gallery-row">
+  <div class="gallery-item">
     <img src="/images/439.jpg">
     <p><strong></strong></p>
   </div>
-  <div style="flex: 1;">
+  <div class="gallery-item">
     <img src="/images/440.jpg">
     <p><strong></strong></p>
   </div>
 </div>
 
-<div style="display: flex; gap: 1rem; align-items: flex-start;">
-  <div style="flex: 1;">
+<div class="gallery-row">
+  <div class="gallery-item">
     <img src="/images/437.jpg">
     <p><strong></strong></p>
   </div>
-  <div style="flex: 1;">
+  <div class="gallery-item">
     <img src="/images/442.jpg">
     <p><strong></strong></p>
   </div>

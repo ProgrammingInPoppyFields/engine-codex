@@ -80,23 +80,23 @@ SATELLITE is the Engine of global reach at the cost of proximity. Everything is 
 
 ## Gallery
 
-<div style="display: flex; gap: 1rem; align-items: flex-start;">
-  <div style="flex: 1;">
+<div class="gallery-row">
+  <div class="gallery-item">
     <img src="/images/326.jpg">
     <p><strong></strong></p>
   </div>
-  <div style="flex: 1;">
+  <div class="gallery-item">
     <img src="/images/328.jpg">
     <p><strong></strong></p>
   </div>
 </div>
 
-  <div style="display: flex; gap: 1rem; align-items: flex-start;">
-  <div style="flex: 1;">
+  <div class="gallery-row">
+  <div class="gallery-item">
     <img src="/images/333.jpg">
     <p><strong></strong></p>
   </div>
-  <div style="flex: 1;">
+  <div class="gallery-item">
     <img src="/images/334.jpg">
     <p><strong></strong></p>
   </div>

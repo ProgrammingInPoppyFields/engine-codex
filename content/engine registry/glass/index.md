@@ -93,34 +93,34 @@ GLASS is dangerous because it seems like it is not holding anything back.
 - Transparency has done an astonishing job convincing people it is the same as honesty.
 ## Gallery
 
-<div style="display: flex; gap: 1rem; align-items: flex-start;">
-  <div style="flex: 1;">
+<div class="gallery-row">
+  <div class="gallery-item">
     <img src="/images/66.jpg">
     <p><strong></strong></p>
   </div>
-  <div style="flex: 1;">
+  <div class="gallery-item">
     <img src="/images/69.jpg">
     <p><strong></strong></p>
   </div>
 </div>
 
-<div style="display: flex; gap: 1rem; align-items: flex-start;">
-    <div style="flex: 1;">
+<div class="gallery-row">
+    <div class="gallery-item">
     <img src="/images/338.jpg">
     <p><strong></strong></p>
   </div>
-  <div style="flex: 1;">
+  <div class="gallery-item">
     <img src="/images/362.jpg">
     <p><strong></strong></p>
   </div>
 </div>
 
-<div style="display: flex; gap: 1rem; align-items: flex-start;">
-    <div style="flex: 1;">
+<div class="gallery-row">
+    <div class="gallery-item">
     <img src="/images/371.jpg">
     <p><strong></strong></p>
   </div>
-  <div style="flex: 1;">
+  <div class="gallery-item">
     <img src="/images/372.jpg">
     <p><strong></strong></p>
   </div>

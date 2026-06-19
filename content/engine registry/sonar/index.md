@@ -79,22 +79,22 @@ Submarines, whales, seafloor terrain, shipwrecks, mines — all become knowable 
 
 ## Gallery
 
-<div style="display: flex; gap: 1rem; align-items: flex-start;">
-  <div style="flex: 1;">
+<div class="gallery-row">
+  <div class="gallery-item">
     <img src="/images/351.jpg">
     <p><strong></strong></p>
   </div>
 </div>
 
-<div style="display: flex; gap: 1rem; align-items: flex-start;">
-  <div style="flex: 1;">
+<div class="gallery-row">
+  <div class="gallery-item">
     <img src="/images/349.jpg">
     <p><strong></strong></p>
   </div>
 </div>
 
-<div style="display: flex; gap: 1rem; align-items: flex-start;">
-  <div style="flex: 1;">
+<div class="gallery-row">
+  <div class="gallery-item">
     <img src="/images/353.jpg">
     <p><strong></strong></p>
   </div>

@@ -100,67 +100,67 @@ It has already entered the room.
 - By the time you notice it, it has usually already done something.
 ## Gallery
 
-<div style="display: flex; gap: 1rem; align-items: flex-start;">
-  <div style="flex: 1;">
+<div class="gallery-row">
+  <div class="gallery-item">
     <img src="/images/255.jpg">
     <p><strong></strong></p>
   </div>
 </div>
 
-<div style="display: flex; gap: 1rem; align-items: flex-start;">
-  <div style="flex: 1;">
+<div class="gallery-row">
+  <div class="gallery-item">
     <img src="/images/262.jpg">
     <p><strong></strong></p>
   </div>
-  <div style="flex: 1;">
+  <div class="gallery-item">
     <img src="/images/263.jpg">
     <p><strong></strong></p>
   </div>
-  <div style="flex: 1;">
+  <div class="gallery-item">
     <img src="/images/257.jpg">
     <p><strong></strong></p>
   </div>
 </div>
 
-<div style="display: flex; gap: 1rem; align-items: flex-start;">
-  <div style="flex: 1;">
+<div class="gallery-row">
+  <div class="gallery-item">
     <img src="/images/264.jpg">
     <p><strong></strong></p>
   </div>
-  <div style="flex: 1;">
+  <div class="gallery-item">
     <img src="/images/260.jpg">
     <p><strong></strong></p>
   </div>
 </div>
 
-<div style="display: flex; gap: 1rem; align-items: flex-start;">
-  <div style="flex: 1;">
+<div class="gallery-row">
+  <div class="gallery-item">
     <img src="/images/266.jpg">
     <p><strong></strong></p>
   </div>
-  <div style="flex: 1;">
+  <div class="gallery-item">
     <img src="/images/256.jpg">
     <p><strong></strong></p>
   </div>
 </div>
 
-<div style="display: flex; gap: 1rem; align-items: flex-start;">
-  <div style="flex: 1;">
+<div class="gallery-row">
+  <div class="gallery-item">
     <img src="/images/323.jpg">
     <p><strong></strong></p>
   </div>
-  <div style="flex: 1;">
+  <div class="gallery-item">
     <img src="/images/324.jpg">
     <p><strong></strong></p>
   </div>
 </div>
 
-<div style="display: flex; gap: 1rem; align-items: flex-start;">
-  <div style="flex: 1;">
+<div class="gallery-row">
+  <div class="gallery-item">
     <img src="/images/320.jpg">
     <p><strong></strong></p>
   </div>
-  <div style="flex: 1;">
+  <div class="gallery-item">
     <img src="/images/322.jpg">
     <p><strong></strong></p>
   </div>

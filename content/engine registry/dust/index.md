@@ -93,12 +93,12 @@ DUST is devastating because it is true.
 - DUST is the only one in the trio old enough to be funny about it.
 ## Gallery
 
-<div style="display: flex; gap: 1rem; align-items: flex-start;">
-  <div style="flex: 1;">
+<div class="gallery-row">
+  <div class="gallery-item">
     <img src="/images/50.jpg">
     <p><strong></strong></p>
   </div>
-    <div style="flex: 1;">
+    <div class="gallery-item">
     <img src="/images/51.jpg">
     <p><strong></strong></p>
   </div>

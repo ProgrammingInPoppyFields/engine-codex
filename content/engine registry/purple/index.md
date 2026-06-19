@@ -143,20 +143,20 @@ Sometimes recognition arrives too late to be innocent.
 
 ## Gallery
 
-<div style="display: flex; gap: 1rem; align-items: flex-start;">
-  <div style="flex: 1;">
+<div class="gallery-row">
+  <div class="gallery-item">
     <img src="/images/424.jpg">
     <p><strong></strong></p>
   </div>
     
-  <div style="flex: 1;">
+  <div class="gallery-item">
     <img src="/images/429.jpg">
     <p><strong></strong></p>
   </div>
 </div>
 
-<div style="display: flex; gap: 1rem; align-items: flex-start;">
-  <div style="flex: 1;">
+<div class="gallery-row">
+  <div class="gallery-item">
     <img src="/images/172.jpg">
     <p><strong></strong></p>
   </div>

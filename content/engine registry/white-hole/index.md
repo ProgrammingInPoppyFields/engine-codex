@@ -100,25 +100,25 @@ BLACK HOLE says: **So be it.**
 - The Engine considers all output morally equivalent until some other poor structure has to deal with it.
 ## Gallery
 
-<div style="display: flex; gap: 1rem; align-items: flex-start;">
-  <div style="flex: 1;">
+<div class="gallery-row">
+  <div class="gallery-item">
     <img src="/images/280.jpg">
     <p><strong></strong></p>
   </div>
     
-  <div style="flex: 1;">
+  <div class="gallery-item">
     <img src="/images/270.jpg">
     <p><strong></strong></p>
   </div>
 </div>
 
-<div style="display: flex; gap: 1rem; align-items: flex-start;">
-  <div style="flex: 1;">
+<div class="gallery-row">
+  <div class="gallery-item">
     <img src="/images/425.jpg">
     <p><strong></strong></p>
   </div>
     
-  <div style="flex: 1;">
+  <div class="gallery-item">
     <img src="/images/426.jpg">
     <p><strong></strong></p>
   </div>

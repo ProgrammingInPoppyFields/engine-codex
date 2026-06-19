@@ -216,57 +216,57 @@ THE SILICON CARBIDE ENGINE is what happens when silicon is made responsible for 
 
 ## Gallery
 
-<div style="display: flex; gap: 1rem; align-items: flex-start;">
-    <div style="flex: 1;">
+<div class="gallery-row">
+    <div class="gallery-item">
         <img src="/images/16.jpg">
         <p><strong>Chip Stack</strong></p>
     </div>
-    <div style="flex: 1;">
+    <div class="gallery-item">
         <img src="/images/20.jpg">
         <p><strong>MOSFET Gate</strong></p>
     </div>
 </div>
 
-<div style="display: flex; gap: 1rem; align-items: flex-start;">
-    <div style="flex: 1;">
+<div class="gallery-row">
+    <div class="gallery-item">
         <img src="/images/18.jpg">
         <p><strong>Kernel Panic</strong></p>
     </div>
-    <div style="flex: 1;">
+    <div class="gallery-item">
         <img src="/images/15.jpg">
         <p><strong>Fork Bomb</strong></p>
     </div>
 </div>
 
-<div style="display: flex; gap: 1rem; align-items: flex-start;">
-    <div style="flex: 1;">
+<div class="gallery-row">
+    <div class="gallery-item">
         <img src="/images/402.jpg">
         <p><strong>Mineral Form 1</strong></p>
     </div>
-    <div style="flex: 1;">
+    <div class="gallery-item">
         <img src="/images/400.jpg">
         <p><strong>Mineral Form 2</strong></p>
     </div>
 </div>
 
-<div style="display: flex; gap: 1rem; align-items: flex-start;">
-    <div style="flex: 1;">
+<div class="gallery-row">
+    <div class="gallery-item">
         <img src="/images/408.jpg">
         <p><strong>Ball Grid 1</strong></p>
     </div>
-    <div style="flex: 1;">
+    <div class="gallery-item">
         <img src="/images/413.jpg">
         <p><strong>Ball Grid 2</strong></p>
     </div>
 </div>
 
 
-<div style="display: flex; gap: 1rem; align-items: flex-start;">
-    <div style="flex: 1;">
+<div class="gallery-row">
+    <div class="gallery-item">
         <img src="/images/414.jpg">
         <p><strong>Die Reliquary 1</strong></p>
     </div>
-    <div style="flex: 1;">
+    <div class="gallery-item">
         <img src="/images/415.jpg">
         <p><strong>Die Reliquary 2</strong></p>
     </div>
