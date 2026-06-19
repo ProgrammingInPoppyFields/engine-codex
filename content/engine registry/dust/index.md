@@ -7,7 +7,7 @@ tags:
 
 # THE DUST ENGINE
 
-![THE DUST ENGINE](/images/368.png)
+![THE DUST ENGINE](/images/368.jpg)
 
 > The oldest thing in the room, pretending to be dirt.
 
@@ -90,11 +90,11 @@ DUST is devastating because it is true.
 
 <div style="display: flex; gap: 1rem; align-items: flex-start;">
   <div style="flex: 1;">
-    <img src="/images/50.png">
+    <img src="/images/50.jpg">
     <p><strong></strong></p>
   </div>
     <div style="flex: 1;">
-    <img src="/images/51.png">
+    <img src="/images/51.jpg">
     <p><strong></strong></p>
   </div>
 </div>

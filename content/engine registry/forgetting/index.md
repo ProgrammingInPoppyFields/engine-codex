@@ -7,7 +7,7 @@ tags:
 
 # THE SECOND DEATH ENGINE
 
-![THE SECOND DEATH ENGINE](/images/62.png)
+![THE SECOND DEATH ENGINE](/images/62.jpg)
 
 > First death: biological. Second death: archival.
 

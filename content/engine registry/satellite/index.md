@@ -7,7 +7,7 @@ tags:
 
 # THE SATELLITE ENGINE
 
-![](/images/325.png)
+![](/images/325.jpg)
 
 > The signal comes from above, and there is no one up there.
 
@@ -76,22 +76,22 @@ SATELLITE is the Engine of global reach at the cost of proximity. Everything is 
 
 <div style="display: flex; gap: 1rem; align-items: flex-start;">
   <div style="flex: 1;">
-    <img src="/images/326.png">
+    <img src="/images/326.jpg">
     <p><strong></strong></p>
   </div>
   <div style="flex: 1;">
-    <img src="/images/328.png">
+    <img src="/images/328.jpg">
     <p><strong></strong></p>
   </div>
 </div>
 
   <div style="display: flex; gap: 1rem; align-items: flex-start;">
   <div style="flex: 1;">
-    <img src="/images/333.png">
+    <img src="/images/333.jpg">
     <p><strong></strong></p>
   </div>
   <div style="flex: 1;">
-    <img src="/images/334.png">
+    <img src="/images/334.jpg">
     <p><strong></strong></p>
   </div>
 </div>

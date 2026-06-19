@@ -7,7 +7,7 @@ tags:
 
 # THE SAND ENGINE
 
-![THE SAND ENGINE](/images/180.png)
+![THE SAND ENGINE](/images/180.jpg)
 
 > The youngest ending, loud enough to get everywhere.
 
@@ -86,40 +86,40 @@ It polishes the surface by bothering it for a very long time.
 
 <div style="display: flex; gap: 1rem; align-items: flex-start;">
   <div style="flex: 1;">
-    <img src="/images/176.png">
+    <img src="/images/176.jpg">
     <p><strong></strong></p>
   </div>
     <div style="flex: 1;">
-    <img src="/images/179.png">
+    <img src="/images/179.jpg">
     <p><strong></strong></p>
   </div>
 </div>
 
 <div style="display: flex; gap: 1rem; align-items: flex-start;">
   <div style="flex: 1;">
-    <img src="/images/173.png">
+    <img src="/images/173.jpg">
     <p><strong></strong></p>
   </div>
     <div style="flex: 1;">
-    <img src="/images/175.png">
+    <img src="/images/175.jpg">
     <p><strong></strong></p>
   </div>
 </div>
 
 <div style="display: flex; gap: 1rem; align-items: flex-start;">
   <div style="flex: 1;">
-    <img src="/images/363.png">
+    <img src="/images/363.jpg">
     <p><strong></strong></p>
   </div>
     <div style="flex: 1;">
-    <img src="/images/364.png">
+    <img src="/images/364.jpg">
     <p><strong></strong></p>
   </div>
 </div>
 
 <div style="display: flex; gap: 1rem; align-items: flex-start;">
   <div style="flex: 1;">
-    <img src="/images/366.png">
+    <img src="/images/366.jpg">
     <p><strong></strong></p>
   </div>
 </div>

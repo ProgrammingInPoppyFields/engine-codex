@@ -7,7 +7,7 @@ tags:
 
 # THE RADAR ENGINE
 
-![THE RADAR ENGINE](/images/342.png)
+![THE RADAR ENGINE](/images/342.jpg)
 
 > Ask the sky a question. Learn the answer by what comes back.
 
@@ -75,39 +75,39 @@ This makes it indispensable to safety, warfare, weather prediction, and navigati
 
 <div style="display: flex; gap: 1rem; align-items: flex-start;">
   <div style="flex: 1;">
-    <img src="/images/336.png">
+    <img src="/images/336.jpg">
     <p><strong></strong></p>
   </div>
   <div style="flex: 1;">
-    <img src="/images/337.png">
-    <p><strong></strong></p>
-  </div>
-</div>
-
-<div style="display: flex; gap: 1rem; align-items: flex-start;">
-  <div style="flex: 1;">
-    <img src="/images/341.png">
+    <img src="/images/337.jpg">
     <p><strong></strong></p>
   </div>
 </div>
 
 <div style="display: flex; gap: 1rem; align-items: flex-start;">
   <div style="flex: 1;">
-    <img src="/images/335.png">
+    <img src="/images/341.jpg">
     <p><strong></strong></p>
   </div>
 </div>
 
 <div style="display: flex; gap: 1rem; align-items: flex-start;">
   <div style="flex: 1;">
-    <img src="/images/344.png">
+    <img src="/images/335.jpg">
     <p><strong></strong></p>
   </div>
 </div>
 
 <div style="display: flex; gap: 1rem; align-items: flex-start;">
   <div style="flex: 1;">
-    <img src="/images/347.png">
+    <img src="/images/344.jpg">
+    <p><strong></strong></p>
+  </div>
+</div>
+
+<div style="display: flex; gap: 1rem; align-items: flex-start;">
+  <div style="flex: 1;">
+    <img src="/images/347.jpg">
     <p><strong></strong></p>
   </div>
 </div>

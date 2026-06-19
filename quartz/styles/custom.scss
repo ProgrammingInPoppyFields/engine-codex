@@ -61,7 +61,7 @@ samp {
 
 /* Footer styling */
 footer {
-  padding: 0 5rem;
+  padding: 0 clamp(1.5rem, 4vw, 5rem);
   color: var(--gray) !important;
 
   p, a, li {
@@ -82,130 +82,137 @@ footer {
   }
 }
 
-/* Hide graph on all pages except index */
+/* === UNIVERSAL LAYOUT: all screen sizes === */
+
+/* Single-column grid everywhere — sidebar is an overlay, not a grid column */
+#quartz-body {
+  grid-template-columns: 1fr !important;
+  grid-template-areas:
+    "grid-header"
+    "grid-center"
+    "grid-footer" !important;
+}
+
+/* Hide default Quartz mobile sidebar chrome */
+.explorer-toggle.mobile-explorer,
+.spacer.mobile-only {
+  display: none !important;
+}
+
+/* Sidebar: always a fixed overlay, always hidden by default */
+.left.sidebar {
+  position: fixed !important;
+  top: 0;
+  left: 0;
+  width: min(85vw, 420px);
+  max-width: min(85vw, 420px);
+  height: 100vh !important;
+  min-width: 0;
+  overflow-y: auto;
+  overflow-x: hidden;
+  z-index: 100;
+  padding: 3rem 2rem !important;
+  background: rgba(10, 10, 10, 0.92);
+  backdrop-filter: blur(24px);
+  -webkit-backdrop-filter: blur(24px);
+  transform: translateX(-100%);
+  opacity: 0;
+  pointer-events: none;
+  transition: transform 0.3s ease, opacity 0.3s ease;
+  flex-direction: column !important;
+  gap: 1.2rem !important;
+
+  * {
+    font-family: "IBM Plex Mono", monospace !important;
+  }
+
+  h2.page-title,
+  h2.page-title a {
+    font-family: "Exo 2", sans-serif !important;
+    text-transform: uppercase;
+    letter-spacing: 0.16em;
+  }
+
+  .explorer-ul > li > .folder-container .folder-title,
+  .explorer-ul > li > a {
+    font-family: "Libre Baskerville", "Georgia", serif !important;
+    text-transform: lowercase;
+    letter-spacing: 0.02em;
+  }
+}
+
+/* Sidebar visible when not collapsed */
+body:not(.sidebar-collapsed) .left.sidebar {
+  transform: translateX(0);
+  opacity: 1;
+  pointer-events: all;
+}
+
+/* Burger toggle: always visible */
+.sidebar-toggle {
+  display: flex !important;
+  position: fixed;
+  top: 0.75rem;
+  left: 0.75rem;
+  z-index: 999;
+  background: var(--light);
+  border: 1px solid var(--lightgray);
+  color: var(--dark);
+  cursor: pointer;
+  width: 36px;
+  height: 36px;
+  align-items: center;
+  justify-content: center;
+  border-radius: 4px;
+  font-size: 1.3rem;
+  line-height: 1;
+  transition: background-color 0.2s ease;
+
+  &:hover {
+    background-color: var(--lightgray);
+  }
+}
+
+/* Main content: responsive padding */
+.center {
+  min-width: 0;
+  overflow-x: hidden;
+  padding: 0 clamp(1.5rem, 4vw, 5rem);
+}
+
+/* === GRAPH: hide on all pages except index === */
+
 body:not([data-slug="index"]) .right.sidebar {
   display: none !important;
 }
 
-body:not([data-slug="index"]) #quartz-body {
-  @media all and (min-width: 1200px) {
-    grid-template-columns: 1fr !important;
-    grid-template-areas:
-      "grid-header"
-      "grid-center"
-      "grid-footer" !important;
-  }
-}
+/* === HOMEPAGE: star map front and center === */
 
-/* Collapsible left sidebar */
-@media all and (min-width: 1200px) {
-  #quartz-body {
-    grid-template-columns: 1fr !important;
-    grid-template-areas:
-      "grid-header"
-      "grid-center"
-      "grid-footer" !important;
-    transition: grid-template-columns 0.3s ease;
-  }
-
-  .left.sidebar {
-    position: fixed !important;
-    top: 0;
-    left: 0;
-    width: min(35vw, 420px);
-    max-width: min(35vw, 420px);
-    height: 100vh;
-    min-width: 0;
-    overflow-y: auto;
-    overflow-x: hidden;
-    z-index: 100;
-    padding: 3rem 2.5rem !important;
-    background: rgba(10, 10, 10, 0.8);
-    backdrop-filter: blur(24px);
-    -webkit-backdrop-filter: blur(24px);
-    transform: translateX(-100%);
-    opacity: 0;
-    pointer-events: none;
-    transition: transform 0.3s ease, opacity 0.3s ease;
-
-    * {
-      font-family: "IBM Plex Mono", monospace !important;
-    }
-
-    h2.page-title,
-    h2.page-title a {
-      font-family: "Exo 2", sans-serif !important;
-      text-transform: uppercase;
-      letter-spacing: 0.16em;
-    }
-
-    .explorer-ul > li > .folder-container .folder-title,
-    .explorer-ul > li > a {
-      font-family: "Libre Baskerville", "Georgia", serif !important;
-      text-transform: lowercase;
-      letter-spacing: 0.02em;
-    }
-  }
-
-  body:not(.sidebar-collapsed) .left.sidebar {
-    transform: translateX(0);
-    opacity: 1;
-    pointer-events: all;
-  }
-
-  .center {
-    min-width: 0;
-    overflow-x: hidden;
-    padding: 0 5rem;
-    transition: max-width 0.3s ease;
-  }
-
-  .sidebar-toggle {
-    position: fixed;
-    top: 1rem;
-    left: 1rem;
-    z-index: 999;
-    background: var(--light);
-    border: 1px solid var(--lightgray);
-    color: var(--dark);
-    cursor: pointer;
-    width: 32px;
-    height: 32px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    border-radius: 4px;
-    font-size: 1.2rem;
-    line-height: 1;
-    transition: background-color 0.2s ease;
-
-    &:hover {
-      background-color: var(--lightgray);
-    }
-  }
-}
-
-@media all and (max-width: 1199px) {
-  .sidebar-toggle {
-    display: none;
-  }
-}
-
-/* Homepage: massive graph front and center */
 body[data-slug="index"] {
   #quartz-body {
-    @media all and (min-width: 1200px) {
-      grid-template-columns: 1fr !important;
-      grid-template-areas:
-        "grid-sidebar-right"
-        "grid-header"
-        "grid-center"
-        "grid-footer" !important;
-    }
+    grid-template-areas:
+      "grid-sidebar-right"
+      "grid-header"
+      "grid-center"
+      "grid-footer" !important;
+  }
+
+  .note-properties,
+  details.note-properties,
+  .page-header .note-properties,
+  .popover-hint .note-properties {
+    display: none !important;
+    visibility: hidden !important;
+    height: 0 !important;
+    overflow: hidden !important;
+  }
+
+  .breadcrumbs {
+    display: none !important;
   }
 
   .center {
-    padding: 0 3rem;
+    padding: 0 clamp(1rem, 3vw, 3rem);
     max-width: 100% !important;
   }
 
@@ -231,12 +238,12 @@ body[data-slug="index"] {
 
       & > .graph-outer {
         height: calc(100vh - 4rem) !important;
-        width: 85% !important;
-        max-width: 85%;
-        margin: 2em auto 0 auto !important;
+        width: clamp(90%, 85vw, 85%) !important;
+        max-width: 95%;
+        margin: 3rem auto 0 auto !important;
         box-sizing: border-box;
         border: 1px solid var(--gray);
-        border-radius: 25px;
+        border-radius: clamp(16px, 2vw, 25px);
 
         canvas {
           display: block;

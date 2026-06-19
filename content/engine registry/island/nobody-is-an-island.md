@@ -6,7 +6,7 @@ tags: []
 
 # NOBODY IS AN ISLAND
 
-![](/images/135.png)
+![](/images/135.jpg)
 
 > ISLAND ENGINE ↔ ISOLATION ENGINE
 

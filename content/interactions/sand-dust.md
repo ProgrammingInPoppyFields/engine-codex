@@ -7,7 +7,7 @@ tags:
 
 # SAND ↔ DUST
 
-![SAND ↔ DUST](/images/101.png)
+![SAND ↔ DUST](/images/101.jpg)
 
 > Particulate Legacies
 

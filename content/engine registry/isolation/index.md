@@ -7,7 +7,7 @@ tags:
 
 # THE ISOLATION ENGINE
 
-![THE ISOLATION ENGINE](/images/136.png)
+![THE ISOLATION ENGINE](/images/136.jpg)
 
 > Nothing grows here. Nothing calls back.
 

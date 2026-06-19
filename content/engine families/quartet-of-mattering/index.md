@@ -7,7 +7,7 @@ tags:
 
 # THE FOUR MONOLITHS OF MATTER
 
-![THE FOUR MONOLITHS OF MATTER](/images/383.png)
+![THE FOUR MONOLITHS OF MATTER](/images/383.jpg)
 
 > 
 From left to right: Dark Matter, Antimatter, White Matter, and Gray Matter. Four massive ways matter refuses to remain merely physical.

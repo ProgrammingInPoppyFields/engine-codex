@@ -8,7 +8,7 @@ tags:
 
 # THE TURQUOISE ENGINE
 
-![THE TURQUOISE ENGINE](/images/202.png)
+![THE TURQUOISE ENGINE](/images/202.jpg)
 
 > The electric moment before choice becomes consequence.
 
@@ -105,8 +105,8 @@ It does not ask whether a choice matters. It assumes all choices matter too much
 
 ## Gallery
 
-<!-- ![TURQUOISE gallery image 2](/images/203.png) -->
-<!-- ![TURQUOISE gallery image 3](/images/204.png) -->
+<!-- ![TURQUOISE gallery image 2](/images/203.jpg) -->
+<!-- ![TURQUOISE gallery image 3](/images/204.jpg) -->
 <!-- ![TURQUOISE gallery image 4](/images/turquoise/4.png) -->
 
 Empty for now.

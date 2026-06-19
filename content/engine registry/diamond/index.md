@@ -7,7 +7,7 @@ tags:
 
 # THE DIAMOND ENGINE
 
-![THE DIAMOND ENGINE](/images/47.png)
+![THE DIAMOND ENGINE](/images/47.jpg)
 
 > Want, made hard enough to cut.
 
@@ -84,15 +84,15 @@ This is not necessarily a mercy.
 
 <div style="display: flex; gap: 1rem; align-items: flex-start;">
   <div style="flex: 1;">
-    <img src="/images/44.png">
+    <img src="/images/44.jpg">
     <p><strong></strong></p>
   </div>
   <div style="flex: 1;">
-    <img src="/images/45.png">
+    <img src="/images/45.jpg">
     <p><strong></strong></p>
   </div>
   <div style="flex: 1;">
-    <img src="/images/46.png">
+    <img src="/images/46.jpg">
     <p><strong></strong></p>
   </div>
 </div>

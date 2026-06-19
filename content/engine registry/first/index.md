@@ -7,7 +7,7 @@ tags:
 
 # THE FIRST ENGINE
 
-![THE FIRST ENGINE](/images/58.png)
+![THE FIRST ENGINE](/images/58.jpg)
 
 > The beginning before the beginning knows it has begun.
 
@@ -84,8 +84,8 @@ It does not ask to be understood before functioning.
 
 ## Gallery
 
-![FIRST gallery image 2](/images/56.png)
-![FIRST gallery image 3](/images/57.png)
+![FIRST gallery image 2](/images/56.jpg)
+![FIRST gallery image 3](/images/57.jpg)
 
 Empty for now.
 

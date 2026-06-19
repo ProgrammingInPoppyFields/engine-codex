@@ -7,7 +7,7 @@ tags:
 
 # THE RADIO ENGINE
 
-![THE RADIO ENGINE](/images/348.png)
+![THE RADIO ENGINE](/images/348.jpg)
 
 > Voice without body. Static without source. Music arriving through weather.
 
@@ -76,18 +76,18 @@ In emergency, RADIO becomes essential. When networks fail, towers fall, and scre
 
 <div style="display: flex; gap: 1rem; align-items: flex-start;">
   <div style="flex: 1;">
-    <img src="/images/352.png">
+    <img src="/images/352.jpg">
     <p><strong></strong></p>
   </div>
 </div>
 
 <div style="display: flex; gap: 1rem; align-items: flex-start;">
   <div style="flex: 1;">
-    <img src="/images/356.png">
+    <img src="/images/356.jpg">
     <p><strong></strong></p>
   </div>
   <div style="flex: 1;">
-    <img src="/images/360.png">
+    <img src="/images/360.jpg">
     <p><strong></strong></p>
   </div>
 </div>

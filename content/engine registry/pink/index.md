@@ -8,7 +8,7 @@ tags:
 
 # THE PINK ENGINE
 
-![THE PINK ENGINE](/images/165.png)
+![THE PINK ENGINE](/images/165.jpg)
 
 > Liminality with a heartbeat.
 
@@ -95,11 +95,11 @@ They are part of the same living system.
 
 ## Gallery
 
-![PINK gallery image 2](/images/167.png)
-![PINK gallery image 3](/images/168.png)
-![PINK gallery image 4](/images/169.png)
-![PINK gallery image 5](/images/170.png)
-![PINK gallery image 5](/images/166.png)
+![PINK gallery image 2](/images/167.jpg)
+![PINK gallery image 3](/images/168.jpg)
+![PINK gallery image 4](/images/169.jpg)
+![PINK gallery image 5](/images/170.jpg)
+![PINK gallery image 5](/images/166.jpg)
 
 ## Special Notes
 

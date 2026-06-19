@@ -7,7 +7,7 @@ tags:
 
 # THE WIFI ENGINE
 
-![THE WIFI ENGINE](/images/194.png)
+![THE WIFI ENGINE](/images/194.jpg)
 
 > The room is alive because something invisible agrees to carry you.
 

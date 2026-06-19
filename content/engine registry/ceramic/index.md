@@ -7,7 +7,7 @@ tags:
 
 # THE CERAMIC ENGINE
 
-![THE CERAMIC ENGINE](/images/26.png)
+![THE CERAMIC ENGINE](/images/26.jpg)
 
 > The bowl and the armor share a kiln.
 
@@ -86,8 +86,8 @@ CERAMIC knows that hardness can be produced by vulnerability passing through fir
 
 ## Gallery
 
-![CERAMIC gallery image 2](/images/27.png)
-![CERAMIC gallery image 4](/images/29.png)
+![CERAMIC gallery image 2](/images/27.jpg)
+![CERAMIC gallery image 4](/images/29.jpg)
 
 ## Special Notes
 

@@ -7,7 +7,7 @@ tags:
 
 # THE CELLULAR ENGINE
 
-![THE CELLULAR ENGINE](/images/183.png)
+![THE CELLULAR ENGINE](/images/183.jpg)
 
 > You are handed from tower to tower, and the call does not drop.
 

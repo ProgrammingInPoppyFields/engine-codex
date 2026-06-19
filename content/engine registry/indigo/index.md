@@ -8,7 +8,7 @@ tags:
 
 # THE INDIGO ENGINE
 
-![THE INDIGO ENGINE](/images/95.png)
+![THE INDIGO ENGINE](/images/95.jpg)
 
 > The color that will not decide.
 
@@ -96,9 +96,9 @@ That is its mercy.
 
 ## Gallery
 
-![INDIGO gallery image 2](/images/92.png)
-![INDIGO gallery image 3](/images/93.png)
-![INDIGO gallery image 4](/images/94.png)
+![INDIGO gallery image 2](/images/92.jpg)
+![INDIGO gallery image 3](/images/93.jpg)
+![INDIGO gallery image 4](/images/94.jpg)
 
 ## Special Notes
 

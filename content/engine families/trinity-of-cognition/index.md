@@ -7,7 +7,7 @@ tags:
 
 # THE TRINITY OF COGNITION
 
-![THE TRINITY OF COGNITION](/images/370.png)
+![THE TRINITY OF COGNITION](/images/370.jpg)
 
 > From left to right: UNIT, AUTOPILOT, NULL. Feeling, governance, and mechanism arranged as one unstable system.
 

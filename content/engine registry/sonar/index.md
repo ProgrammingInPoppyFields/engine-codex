@@ -7,7 +7,7 @@ tags:
 
 # THE SONAR ENGINE
 
-![THE SONAR ENGINE](/images/350.png)
+![THE SONAR ENGINE](/images/350.jpg)
 
 > While RADAR sends sound into the sky, SONAR sends into the dark. Shape is returned from pressure.
 
@@ -75,21 +75,21 @@ Submarines, whales, seafloor terrain, shipwrecks, mines — all become knowable 
 
 <div style="display: flex; gap: 1rem; align-items: flex-start;">
   <div style="flex: 1;">
-    <img src="/images/351.png">
+    <img src="/images/351.jpg">
     <p><strong></strong></p>
   </div>
 </div>
 
 <div style="display: flex; gap: 1rem; align-items: flex-start;">
   <div style="flex: 1;">
-    <img src="/images/349.png">
+    <img src="/images/349.jpg">
     <p><strong></strong></p>
   </div>
 </div>
 
 <div style="display: flex; gap: 1rem; align-items: flex-start;">
   <div style="flex: 1;">
-    <img src="/images/353.png">
+    <img src="/images/353.jpg">
     <p><strong></strong></p>
   </div>
 </div>

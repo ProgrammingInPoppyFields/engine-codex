@@ -7,7 +7,7 @@ tags:
 
 # THE BLACK HOLE ENGINE
 
-![THE BLACK HOLE ENGINE](/images/1.png)
+![THE BLACK HOLE ENGINE](/images/1.jpg)
 
 > So be it.
 

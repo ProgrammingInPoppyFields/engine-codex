@@ -7,7 +7,7 @@ tags:
 
 # THE UNSUNG ENGINE
 
-![THE UNSUNG ENGINE](/images/318.png)
+![THE UNSUNG ENGINE](/images/318.jpg)
 
 > The ordinary thing that holds anyway.
 
@@ -87,52 +87,52 @@ UNSUNG does not ask to become marble. It does not need polish to prove it was re
 
 <div style="display: flex; gap: 1rem; align-items: flex-start;">
 <div style="flex: 1;">
-    <img src="/images/241.png">
+    <img src="/images/241.jpg">
     <p><strong></strong></p>
   </div>
   <div style="flex: 1;">
-    <img src="/images/248.png">
+    <img src="/images/248.jpg">
     <p><strong></strong></p>
   </div>
   <div style="flex: 1;">
-    <img src="/images/249.png">
-    <p><strong></strong></p>
-  </div>
-</div>
-
-<div style="display: flex; gap: 1rem; align-items: flex-start;">
-  <div style="flex: 1;">
-    <img src="/images/243.png">
-    <p><strong></strong></p>
-  </div>
-  <div style="flex: 1;">
-    <img src="/images/244.png">
-    <p><strong></strong></p>
-  </div>
-  <div style="flex: 1;">
-    <img src="/images/245.png">
+    <img src="/images/249.jpg">
     <p><strong></strong></p>
   </div>
 </div>
 
 <div style="display: flex; gap: 1rem; align-items: flex-start;">
   <div style="flex: 1;">
-    <img src="/images/319.png">
+    <img src="/images/243.jpg">
     <p><strong></strong></p>
   </div>
   <div style="flex: 1;">
-    <img src="/images/316.png">
+    <img src="/images/244.jpg">
+    <p><strong></strong></p>
+  </div>
+  <div style="flex: 1;">
+    <img src="/images/245.jpg">
     <p><strong></strong></p>
   </div>
 </div>
 
 <div style="display: flex; gap: 1rem; align-items: flex-start;">
   <div style="flex: 1;">
-    <img src="/images/314.png">
+    <img src="/images/319.jpg">
     <p><strong></strong></p>
   </div>
   <div style="flex: 1;">
-    <img src="/images/315.png">
+    <img src="/images/316.jpg">
+    <p><strong></strong></p>
+  </div>
+</div>
+
+<div style="display: flex; gap: 1rem; align-items: flex-start;">
+  <div style="flex: 1;">
+    <img src="/images/314.jpg">
+    <p><strong></strong></p>
+  </div>
+  <div style="flex: 1;">
+    <img src="/images/315.jpg">
     <p><strong></strong></p>
   </div>
 </div>

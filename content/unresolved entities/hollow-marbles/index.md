@@ -6,7 +6,7 @@ tags: []
 
 # THE HOLLOW MARBLES OF BORROWED WEIGHT
 
-![](/images/236.png)
+![](/images/236.jpg)
 
 > Two failed claims on weight not yet earned.
 
@@ -178,26 +178,26 @@ The distinction is clinically important and morally unpleasant.
 
 <div style="display: flex; gap: 1rem; align-items: flex-start;">
   <div style="flex: 1;">
-    <img src="/images/222.png">
+    <img src="/images/222.jpg">
     <p><strong></strong></p>
   </div>
   <div style="flex: 1;">
-    <img src="/images/223.png">
+    <img src="/images/223.jpg">
     <p><strong></strong></p>
   </div>
 </div>
 
 <div style="display: flex; gap: 1rem; align-items: flex-start;">
   <div style="flex: 1;">
-    <img src="/images/224.png">
+    <img src="/images/224.jpg">
     <p><strong></strong></p>
   </div>
   <div style="flex: 1;">
-    <img src="/images/228.png">
+    <img src="/images/228.jpg">
     <p><strong></strong></p>
   </div>
   <div style="flex: 1;">
-    <img src="/images/230.png">
+    <img src="/images/230.jpg">
     <p><strong></strong></p>
   </div>
 </div>

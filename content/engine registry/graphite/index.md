@@ -7,7 +7,7 @@ tags:
 
 # THE GRAPHITE ENGINE
 
-![THE GRAPHITE ENGINE](/images/90.png)
+![THE GRAPHITE ENGINE](/images/90.jpg)
 
 > The mark that proves contact happened.
 
@@ -81,9 +81,9 @@ It is the Engine of “start here, even badly.”
 
 ## Gallery
 
-![GRAPHITE gallery image 2](/images/88.png)
-![GRAPHITE gallery image 3](/images/89.png)
-![GRAPHITE gallery image 4](/images/91.png)
+![GRAPHITE gallery image 2](/images/88.jpg)
+![GRAPHITE gallery image 3](/images/89.jpg)
+![GRAPHITE gallery image 4](/images/91.jpg)
 
 ## Special Notes
 

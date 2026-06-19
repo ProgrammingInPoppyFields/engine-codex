@@ -6,7 +6,7 @@ tags: []
 
 # CREATION IS AN ISLAND
 
-![](/images/134.png)
+![](/images/134.jpg)
 
 The ISLAND Engine rises from the sea.
 
