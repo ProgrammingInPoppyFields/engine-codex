@@ -7,6 +7,8 @@ tags:
 
 # THE CLARET ENGINE
 
+![](/images/419.jpg)
+
 > The color of blood before it becomes proof.
 
 ## Aliases

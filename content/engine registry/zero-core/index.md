@@ -7,7 +7,7 @@ tags:
 
 # THE ZERO CORE ENGINE
 
-![](/images/307.jpg)
+![](/images/423.png)
 
 > The work continues with the cost known.
 
@@ -130,10 +130,35 @@ That point is ZERO CORE.
 - ZERO CORE is not the accident. It is the condition under which accident becomes possible and progress remains thinkable.
 - “Proceeding as planned” is not comfort. It is a status report.
 - The Engine does not ask for bravery. It asks whether the margin is real.
+
 ## Gallery
 
-![](/images/310.jpg)
-![](/images/312.jpg)
-![](/images/304.jpg)
-![](/images/305.jpg)
+<div style="display: flex; gap: 1rem; align-items: flex-start;">
+  <div style="flex: 1;">
+    <img src="/images/307.jpg">
+    <p><strong></strong></p>
+  </div>
+</div>
+
+<div style="display: flex; gap: 1rem; align-items: flex-start;">
+  <div style="flex: 1;">
+    <img src="/images/302.jpg">
+    <p><strong></strong></p>
+  </div>
+  <div style="flex: 1;">
+    <img src="/images/301.jpg">
+    <p><strong></strong></p>
+  </div>
+</div>
+
+<div style="display: flex; gap: 1rem; align-items: flex-start;">
+  <div style="flex: 1;">
+    <img src="/images/421.png">
+    <p><strong></strong></p>
+  </div>
+  <div style="flex: 1;">
+    <img src="/images/422.png">
+    <p><strong></strong></p>
+  </div>
+</div>
 

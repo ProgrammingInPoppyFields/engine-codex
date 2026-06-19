@@ -115,3 +115,14 @@ GLASS is dangerous because it seems like it is not holding anything back.
   </div>
 </div>
 
+<div style="display: flex; gap: 1rem; align-items: flex-start;">
+    <div style="flex: 1;">
+    <img src="/images/371.jpg">
+    <p><strong></strong></p>
+  </div>
+  <div style="flex: 1;">
+    <img src="/images/372.jpg">
+    <p><strong></strong></p>
+  </div>
+</div>
+

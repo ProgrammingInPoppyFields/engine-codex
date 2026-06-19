@@ -7,7 +7,7 @@ tags:
 
 # THE DIAMOND ENGINE
 
-![THE DIAMOND ENGINE](/images/47.jpg)
+![THE DIAMOND ENGINE](/images/416.png)
 
 > Want, made hard enough to cut.
 
@@ -15,7 +15,6 @@ tags:
 
 - DIAMOND
 - The Weight
-- The Hard Want
 - The Pressure Drive
 - The Engine of Hard Want
 
@@ -85,7 +84,15 @@ This is not necessarily a mercy.
 - DIAMOND is not pure. It is organized pressure.
 - The sparkle is not proof of kindness.
 - Some wants are beautiful. Some wants are load-bearing. Some wants are knives.
+
 ## Gallery
+
+<div style="display: flex; gap: 1rem; align-items: flex-start;">
+  <div style="flex: 1;">
+    <img src="/images/47.jpg">
+    <p><strong></strong></p>
+  </div>
+</div>
 
 <div style="display: flex; gap: 1rem; align-items: flex-start;">
   <div style="flex: 1;">

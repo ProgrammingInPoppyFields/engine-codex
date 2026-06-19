@@ -2,7 +2,8 @@
 title: GRAPHITE ↔ DIAMOND ↔ DUST
 classification: Interaction
 tags:
-  - material-engines
+  - one-shot
+  - dialogue
 ---
 
 # GRAPHITE ↔ DIAMOND ↔ DUST

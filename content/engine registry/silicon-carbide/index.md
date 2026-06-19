@@ -7,7 +7,7 @@ tags:
 
 # THE SILICON CARBIDE ENGINE
 
-![THE SILICON CARBIDE ENGINE](/images/silicon-carbide/1.png)
+![THE SILICON CARBIDE ENGINE](/images/408.png)
 
 > Silicon after it stopped expecting mercy.
 
@@ -216,4 +216,58 @@ THE SILICON CARBIDE ENGINE is what happens when silicon is made responsible for 
 
 ## Gallery
 
-No additional gallery images currently listed.
+<div style="display: flex; gap: 1rem; align-items: flex-start;">
+    <div style="flex: 1;">
+        <img src="/images/16.jpg">
+        <p><strong>Chip Stack</strong></p>
+    </div>
+    <div style="flex: 1;">
+        <img src="/images/20.jpg">
+        <p><strong>MOSFET Gate</strong></p>
+    </div>
+</div>
+
+<div style="display: flex; gap: 1rem; align-items: flex-start;">
+    <div style="flex: 1;">
+        <img src="/images/18.jpg">
+        <p><strong>Kernel Panic</strong></p>
+    </div>
+    <div style="flex: 1;">
+        <img src="/images/15.jpg">
+        <p><strong>Fork Bomb</strong></p>
+    </div>
+</div>
+
+<div style="display: flex; gap: 1rem; align-items: flex-start;">
+    <div style="flex: 1;">
+        <img src="/images/402.png">
+        <p><strong>Mineral Form 1</strong></p>
+    </div>
+    <div style="flex: 1;">
+        <img src="/images/400.png">
+        <p><strong>Mineral Form 2</strong></p>
+    </div>
+</div>
+
+<div style="display: flex; gap: 1rem; align-items: flex-start;">
+    <div style="flex: 1;">
+        <img src="/images/408.png">
+        <p><strong>Ball Grid 1</strong></p>
+    </div>
+    <div style="flex: 1;">
+        <img src="/images/413.png">
+        <p><strong>Ball Grid 2</strong></p>
+    </div>
+</div>
+
+
+<div style="display: flex; gap: 1rem; align-items: flex-start;">
+    <div style="flex: 1;">
+        <img src="/images/414.png">
+        <p><strong>Die Reliquary 1</strong></p>
+    </div>
+    <div style="flex: 1;">
+        <img src="/images/415.png">
+        <p><strong>Die Reliquary 2</strong></p>
+    </div>
+</div>

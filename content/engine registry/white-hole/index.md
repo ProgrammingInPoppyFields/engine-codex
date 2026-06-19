@@ -105,12 +105,21 @@ BLACK HOLE says: **So be it.**
     <img src="/images/280.jpg">
     <p><strong></strong></p>
   </div>
-  <div style="flex: 1;">
     
-    <p><strong></strong></p>
-  </div>
   <div style="flex: 1;">
     <img src="/images/270.jpg">
+    <p><strong></strong></p>
+  </div>
+</div>
+
+<div style="display: flex; gap: 1rem; align-items: flex-start;">
+  <div style="flex: 1;">
+    <img src="/images/425.jpg">
+    <p><strong></strong></p>
+  </div>
+    
+  <div style="flex: 1;">
+    <img src="/images/426.jpg">
     <p><strong></strong></p>
   </div>
 </div>

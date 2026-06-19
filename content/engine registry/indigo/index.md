@@ -99,9 +99,24 @@ That is its mercy.
 - INDIGO is what happens when “maybe” becomes atmospheric.
 - It is not being difficult. It is protecting the thing from premature naming.
 - If you think you understand INDIGO too quickly, you probably did not.
+
 ## Gallery
 
-![INDIGO gallery image 2](/images/92.jpg)
-![INDIGO gallery image 3](/images/93.jpg)
-![INDIGO gallery image 4](/images/94.jpg)
+<div style="display: flex; gap: 1rem; align-items: flex-start;">
+  <div style="flex: 1;">
+    <img src="/images/92.jpg">
+    <p><strong></strong></p>
+  </div>
+</div>
 
+<div style="display: flex; gap: 1rem; align-items: flex-start;">
+  <div style="flex: 1;">
+    <img src="/images/93.jpg">
+    <p><strong></strong></p>
+  </div>
+    
+  <div style="flex: 1;">
+    <img src="/images/94.jpg">
+    <p><strong></strong></p>
+  </div>
+</div>

@@ -7,7 +7,7 @@ tags:
 
 # THE PURPLE ENGINE
 
-![](/images/172.jpg)
+![](/images/482.jpg)
 
 > Recognition through damage. Proof at a cost.
 
@@ -140,10 +140,26 @@ Sometimes recognition arrives too late to be innocent.
 - PURPLE does not ask whether injury should have happened. It asks whether the injury has been recorded.
 - This is not the same as justice.
 - Do not build systems where PURPLE is the only path to being believed.
+
 ## Gallery
 
-<!-- PURPLE gallery image 2 -->
-<!-- PURPLE gallery image 3 -->
+<div style="display: flex; gap: 1rem; align-items: flex-start;">
+  <div style="flex: 1;">
+    <img src="/images/424.jpg">
+    <p><strong></strong></p>
+  </div>
+    
+  <div style="flex: 1;">
+    <img src="/images/429.jpg">
+    <p><strong></strong></p>
+  </div>
+</div>
 
-Empty for now.
+<div style="display: flex; gap: 1rem; align-items: flex-start;">
+  <div style="flex: 1;">
+    <img src="/images/172.jpg">
+    <p><strong></strong></p>
+  </div>
+</div>
+
 
