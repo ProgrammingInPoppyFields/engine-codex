@@ -82,6 +82,11 @@ It does not ask to be understood before functioning.
 - [[unresolved entities/wreath-eater|THE WREATH EATER]] — related through the language of openings, mouths, voids, and central absence.
 - [[engine registry/unsung|THE UNSUNG ENGINE]] — a close friendly relation; origin and unrecognized endurance recognize each other quietly.
 
+## Special Notes
+
+- The aperture is not damage. Please stop diagnosing the aperture.
+- FIRST does not begin dramatically. Drama begins after FIRST allows time to become narrative.
+- The gold is not decoration. The gold remembers the break without letting the break own the structure.
 ## Gallery
 
 ![FIRST gallery image 2](/images/56.jpg)
@@ -89,9 +94,3 @@ It does not ask to be understood before functioning.
 
 Empty for now.
 
-
-## Special Notes
-
-- The aperture is not damage. Please stop diagnosing the aperture.
-- FIRST does not begin dramatically. Drama begins after FIRST allows time to become narrative.
-- The gold is not decoration. The gold remembers the break without letting the break own the structure.

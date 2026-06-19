@@ -71,6 +71,12 @@ Submarines, whales, seafloor terrain, shipwrecks, mines — all become knowable 
 
 - [[engine families/emanation-engines|THE EMANATION ENGINES]]
 
+## Special Notes
+
+- SONAR knows that silence is not the same as empty.
+- The ping is not aggressive. It is lonely.
+- What does not echo may not be absent. It may simply be absorbing.
+
 ## Gallery
 
 <div style="display: flex; gap: 1rem; align-items: flex-start;">
@@ -94,9 +100,3 @@ Submarines, whales, seafloor terrain, shipwrecks, mines — all become knowable 
   </div>
 </div>
 
-
-## Special Notes
-
-- SONAR knows that silence is not the same as empty.
-- The ping is not aggressive. It is lonely.
-- What does not echo may not be absent. It may simply be absorbing.

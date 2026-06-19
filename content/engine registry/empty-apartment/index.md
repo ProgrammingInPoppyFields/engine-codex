@@ -90,6 +90,11 @@ It looks like a lamp left on because darkness would make the room too honest.
 
 - [[engine registry/isolation|THE ISOLATION ENGINE]] — related through separation, solitude, and the architecture of being alone.
 
+## Special Notes
+
+- The apartment is not haunted. That is the problem.
+- One lit lamp can become load-bearing if the night is long enough.
+- This Engine is extremely current. Unfortunately.
 ## Gallery
 
 <!-- ![EMPTY APARTMENT gallery image 2](/images/53.jpg) -->
@@ -98,9 +103,3 @@ It looks like a lamp left on because darkness would make the room too honest.
 
 Empty for now.
 
-
-## Special Notes
-
-- The apartment is not haunted. That is the problem.
-- One lit lamp can become load-bearing if the night is long enough.
-- This Engine is extremely current. Unfortunately.

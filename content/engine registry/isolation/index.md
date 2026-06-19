@@ -81,15 +81,14 @@ Long-term observation confirms no change.
 
 - [[engine registry/island|THE ISLAND ENGINE]] — deeply hermit twin relation; ISLAND sustains life, ISOLATION sustains nothing.
 
+## Special Notes
+
+- ISOLATION is not mysterious. It is just unavailable forever.
+- There is no lighthouse because there is no one to build one and no one to see it.
+- The long-term observation report is very short and somehow still depressing.
 ## Gallery
 
 <!-- No additional gallery images currently listed. -->
 
 Empty for now.
 
-
-## Special Notes
-
-- ISOLATION is not mysterious. It is just unavailable forever.
-- There is no lighthouse because there is no one to build one and no one to see it.
-- The long-term observation report is very short and somehow still depressing.

@@ -81,15 +81,14 @@ SECOND DEATH waits for even that recognition to fail.
 - [[engine registry/unsung|THE UNSUNG ENGINE]] — eldritch older sibling relation; both concern recognition, but SECOND DEATH concerns recognition failing completely.
 - [[engine registry/oblivion|THE OBLIVION ENGINE]] — related through disappearance from record and loss of measurable trace.
 
+## Special Notes
+
+- SECOND DEATH is why unlabeled photographs feel accusatory.
+- The Engine does not hate you. It simply waits longer than your descendants.
+- “Someone should remember them” is not a plan. It is a warning.
 ## Gallery
 
 <!-- No additional gallery images currently listed. -->
 
 Empty for now.
 
-
-## Special Notes
-
-- SECOND DEATH is why unlabeled photographs feel accusatory.
-- The Engine does not hate you. It simply waits longer than your descendants.
-- “Someone should remember them” is not a plan. It is a warning.

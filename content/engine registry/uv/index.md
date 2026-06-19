@@ -93,6 +93,11 @@ It has already entered the room.
 
 - [[engine registry/unsung|THE UNSUNG ENGINE]] — related through unseen presence, omitted significance, and recognition arriving too late.
 
+## Special Notes
+
+- ULTRAVIOLET is not hiding. You are under-equipped.
+- It is rude to call an imperceptible thing absent.
+- By the time you notice it, it has usually already done something.
 ## Gallery
 
 <div style="display: flex; gap: 1rem; align-items: flex-start;">
@@ -161,8 +166,3 @@ It has already entered the room.
   </div>
 </div>
 
-## Special Notes
-
-- ULTRAVIOLET is not hiding. You are under-equipped.
-- It is rude to call an imperceptible thing absent.
-- By the time you notice it, it has usually already done something.

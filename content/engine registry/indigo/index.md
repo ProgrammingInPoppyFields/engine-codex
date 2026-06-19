@@ -94,14 +94,14 @@ That is its mercy.
 - [[engine registry/pink|THE PINK ENGINE]] — related through transformation and liminal embodiment.
 - [[engine registry/turquoise|THE TURQUOISE ENGINE]] — related through charged in-betweenness and unresolved choice.
 
+## Special Notes
+
+- INDIGO is what happens when “maybe” becomes atmospheric.
+- It is not being difficult. It is protecting the thing from premature naming.
+- If you think you understand INDIGO too quickly, you probably did not.
 ## Gallery
 
 ![INDIGO gallery image 2](/images/92.jpg)
 ![INDIGO gallery image 3](/images/93.jpg)
 ![INDIGO gallery image 4](/images/94.jpg)
 
-## Special Notes
-
-- INDIGO is what happens when “maybe” becomes atmospheric.
-- It is not being difficult. It is protecting the thing from premature naming.
-- If you think you understand INDIGO too quickly, you probably did not.

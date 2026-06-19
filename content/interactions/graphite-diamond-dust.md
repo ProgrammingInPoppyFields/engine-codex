@@ -87,7 +87,7 @@ Oh relax. You both end up with me eventually.
 
 ## Pressure Event Note
 
-<!-- ![GRAPHITE ↔ DIAMOND ↔ DUST](/images/interactions/graphite-diamond-dust/1.png) -->
+<!--  -->
 
 A localized pressure event applied to a carbon-rich surface.
 

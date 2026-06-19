@@ -71,6 +71,12 @@ FIBER OPTIC is the Engine of infrastructure so complete it has become geological
 
 - [[engine families/emanation-engines|THE EMANATION ENGINES]]
 
+## Special Notes
+
+- The cloud is a euphemism. The reality is glass in mud.
+- A single submarine cable carries more data than most people can conceptualize. It is also vulnerable to fishing trawlers.
+- Light does not want to be contained. Fiber optic is the engineering of making it not matter what light wants.
+
 ## Gallery
 
 <div style="display: flex; gap: 1rem; align-items: flex-start;">
@@ -94,8 +100,3 @@ FIBER OPTIC is the Engine of infrastructure so complete it has become geological
   </div>
 </div>
 
-## Special Notes
-
-- The cloud is a euphemism. The reality is glass in mud.
-- A single submarine cable carries more data than most people can conceptualize. It is also vulnerable to fishing trawlers.
-- Light does not want to be contained. Fiber optic is the engineering of making it not matter what light wants.

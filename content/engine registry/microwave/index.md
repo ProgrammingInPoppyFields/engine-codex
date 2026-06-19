@@ -7,8 +7,6 @@ tags:
 
 # THE MICROWAVE ENGINE
 
-![THE MICROWAVE ENGINE](/images/microwave/1.png)
-
 > Matter instructed to move from the inside out.
 
 ## Aliases

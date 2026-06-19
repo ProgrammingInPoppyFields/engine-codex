@@ -86,15 +86,14 @@ Fewer gestures.
 - [[engine registry/dust|THE DUST ENGINE]] — pessimistic cousin relation; both concern final dispersal, but OBLIVION removes the sentimental gestures.
 - [[engine registry/forgetting|THE SECOND DEATH ENGINE]] — related through memory failure and archival disappearance.
 
+## Special Notes
+
+- OBLIVION is not blank because nothing happened. It is blank because nothing survived to say so.
+- The stone is smooth in the way certain records are smooth.
+- Attempts to engrave it have failed, which is both rude and thematically consistent.
 ## Gallery
 
 <!-- No additional gallery images currently listed. -->
 
 Empty for now.
 
-
-## Special Notes
-
-- OBLIVION is not blank because nothing happened. It is blank because nothing survived to say so.
-- The stone is smooth in the way certain records are smooth.
-- Attempts to engrave it have failed, which is both rude and thematically consistent.

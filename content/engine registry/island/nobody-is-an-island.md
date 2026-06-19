@@ -118,7 +118,8 @@ to make it home.
 
 ## Gallery
 
-<!-- ![NOBODY IS AN ISLAND gallery image 2](/images/interactions/island-isolation/2.png) -->
+
+Empty for now.
 
 ## Linked Entries
 

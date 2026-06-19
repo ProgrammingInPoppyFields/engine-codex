@@ -11,8 +11,6 @@ tags:
 
 # THE GRAY ENGINE
 
-![THE GRAY ENGINE](/images/gray/1.png)
-
 > Adequacy mistaken for disappearance.
 
 ## Aliases
@@ -241,10 +239,6 @@ It makes survival feel unimpressive.
 * [[2 - engine families/color-engines|THE COLOR ENGINES]] — family relation; GRAY belongs among the Almost Colors.
 * [[2 - engine families/contemporary-engines|THE CONTEMPORARY ENGINES]] — cross-filed relation; GRAY is intensified by metrics, branding, ranking, and modern self-comparison systems.
 
-## Gallery
-
-No additional gallery images currently listed.
-
 ## Special Notes
 
 * The Gray Engine is not humility. Humility chooses to lower the self before something greater. GRAY suspects nothing greater was ever present in the self to begin with.
@@ -252,3 +246,8 @@ No additional gallery images currently listed.
 * Achievement is unreliable. Once achieved, it is usually reclassified as insufficient.
 * GRAY is not between white and black because it has balanced them. It is between them because neither one arrived.
 * The ordinary is not the absence of meaning. It is where meaning spends most of its time.
+
+## Gallery
+
+No additional gallery images currently listed.
+

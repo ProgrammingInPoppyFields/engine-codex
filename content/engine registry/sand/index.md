@@ -82,6 +82,11 @@ It polishes the surface by bothering it for a very long time.
 - [[engine registry/ash|THE ASH ENGINE]] — sibling finality; ash is what remains after fire.
 - [[engine registry/dust|THE DUST ENGINE]] — sibling finality; dust is the oldest and smallest remainder.
 
+## Special Notes
+
+- SAND has never respected boundaries.
+- It is technically a beach material and a siege material. This explains much.
+- SAND is what happens when stone becomes annoyingly democratic.
 ## Gallery
 
 <div style="display: flex; gap: 1rem; align-items: flex-start;">
@@ -124,8 +129,3 @@ It polishes the surface by bothering it for a very long time.
   </div>
 </div>
 
-## Special Notes
-
-- SAND has never respected boundaries.
-- It is technically a beach material and a siege material. This explains much.
-- SAND is what happens when stone becomes annoyingly democratic.

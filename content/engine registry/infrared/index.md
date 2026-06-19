@@ -7,8 +7,6 @@ tags:
 
 # THE INFRARED ENGINE
 
-![THE INFRARED ENGINE](/images/infrared/1.png)
-
 > Warmth made visible. Command sent without touching.
 
 ## Aliases

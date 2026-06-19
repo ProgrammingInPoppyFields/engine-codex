@@ -95,6 +95,11 @@ CARBIDE is what happens when endurance gets specified.
 - [[engine registry/ceramic|THE CERAMIC ENGINE]] — related through engineered brittleness, heat, and hardened material.
 - [[engine registry/diamond|THE DIAMOND ENGINE]] — related through hardness and extreme material behavior.
 
+## Special Notes
+
+- CARBIDE does not “push through.” It was manufactured for the push.
+- It has very little patience for motivational language.
+- Some materials are comforting because they are gentle. CARBIDE is comforting because it will not melt at the first sign of reality.
 ## Gallery
 
 ![CARBIDE gallery image](/images/20.jpg)
@@ -112,8 +117,3 @@ Variant: The Fork Bomb Form
 ![CARBIDE gallery image](/images/15.jpg)
 Variant: The Rake Angle Form
 
-## Special Notes
-
-- CARBIDE does not “push through.” It was manufactured for the push.
-- It has very little patience for motivational language.
-- Some materials are comforting because they are gentle. CARBIDE is comforting because it will not melt at the first sign of reality.

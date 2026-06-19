@@ -83,6 +83,11 @@ UNSUNG does not ask to become marble. It does not need polish to prove it was re
 - [[engine registry/first|THE FIRST ENGINE]] — a close friendly relation; FIRST begins the structure, UNSUNG holds what no one praises.
 - [[unresolved entities/unbowed|UNBOWED]] — an unresolved entity in UNSUNG’s shadow.
 
+## Special Notes
+
+- Not marble. That is still the point.
+- UNSUNG does not want a statue. It wants people to stop pretending the floor holds itself up.
+- Limestone is full of tiny dead things compressed into structure, which is rude of geology and also emotionally devastating.
 ## Gallery
 
 <div style="display: flex; gap: 1rem; align-items: flex-start;">
@@ -137,8 +142,3 @@ UNSUNG does not ask to become marble. It does not need polish to prove it was re
   </div>
 </div>
 
-## Special Notes
-
-- Not marble. That is still the point.
-- UNSUNG does not want a statue. It wants people to stop pretending the floor holds itself up.
-- Limestone is full of tiny dead things compressed into structure, which is rude of geology and also emotionally devastating.

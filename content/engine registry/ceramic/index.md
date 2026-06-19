@@ -84,11 +84,11 @@ CERAMIC knows that hardness can be produced by vulnerability passing through fir
 - [[engine registry/carbide|THE CARBIDE ENGINE]] — related through ceramic engineering, heat, and hardened structure.
 - [[engine registry/glass|THE GLASS ENGINE]] — related through fracture, surface, and the peril of transparency.
 
+## Special Notes
+
+- CERAMIC is not fragile in the way people mean when they say fragile. The same material family can hold soup or stop a projectile.
 ## Gallery
 
 ![CERAMIC gallery image 2](/images/27.jpg)
 ![CERAMIC gallery image 4](/images/29.jpg)
 
-## Special Notes
-
-- CERAMIC is not fragile in the way people mean when they say fragile. The same material family can hold soup or stop a projectile.

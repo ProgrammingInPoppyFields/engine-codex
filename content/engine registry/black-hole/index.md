@@ -95,17 +95,16 @@ BLACK HOLE says: **So be it.**
 
 - [[engine registry/white-hole|THE WHITE HOLE ENGINE]] — paired counterpart; emits what BLACK HOLE receives.
 
-## Gallery
-
-<!-- ![BLACK HOLE gallery image 2](/images/black-hole/2.png) -->
-<!-- ![BLACK HOLE gallery image 3](/images/black-hole/3.png) -->
-<!-- ![BLACK HOLE gallery image 4](/images/black-hole/4.png) -->
-
-Empty for now.
-
-
 ## Special Notes
 
 - BLACK HOLE is not being dramatic. The mass is real.
 - It does not “process” things. It contains them until processing becomes possible, or irrelevant.
 - Many mistake BLACK HOLE for collapse. They usually do this from a safe distance.
+## Gallery
+
+<!--  -->
+<!--  -->
+<!--  -->
+
+Empty for now.
+

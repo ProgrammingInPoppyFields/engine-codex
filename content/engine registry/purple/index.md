@@ -135,6 +135,11 @@ Sometimes recognition arrives too late to be innocent.
 - [[engine registry/indigo|THE INDIGO ENGINE]] — related through uncertainty; INDIGO holds unresolved almost, while PURPLE resolves through consequence.
 - [[engine registry/pink|THE PINK ENGINE]] — related through bodily vulnerability, damage, and recognition of living material.
 
+## Special Notes
+
+- PURPLE does not ask whether injury should have happened. It asks whether the injury has been recorded.
+- This is not the same as justice.
+- Do not build systems where PURPLE is the only path to being believed.
 ## Gallery
 
 <!-- PURPLE gallery image 2 -->
@@ -142,9 +147,3 @@ Sometimes recognition arrives too late to be innocent.
 
 Empty for now.
 
-
-## Special Notes
-
-- PURPLE does not ask whether injury should have happened. It asks whether the injury has been recorded.
-- This is not the same as justice.
-- Do not build systems where PURPLE is the only path to being believed.

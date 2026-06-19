@@ -7,16 +7,16 @@ tags:
 
 # THE CLARET ENGINE
 
-![THE CLARET ENGINE](/images/claret/1.png)
-
-> The wound that prefers itself open.
+> The color of blood before it becomes proof.
 
 ## Aliases
 
-- The Bleeding Engine
-- The Unhealed Color
-- The Distance Drive
-- The Engine of Preferred Damage
+- CLARET
+- The Red-Purple Drive
+- The Engine of Unconsecrated Blood
+- The Almost-Purple Engine
+- The Unrecorded Wound
+- The Wine-Dark Register
 
 ## Classification
 
@@ -25,61 +25,146 @@ tags:
 
 ## Material / Color
 
-Dark arterial red-brown. Dried blood on linen. Old wine left too long. The color of a wound that has decided not to close — not because it cannot, but because it will not.
+Deep claret: red darkening toward purple, wine under low light, arterial color after distance, blood before ceremony, velvet shadow, bruised enamel, stained glass seen from the wrong side.
 
-CLARET is the color between red and brown: the hue that results when blood meets air and time, but refuses to become scar. It is not fresh injury. It is sustained injury. It is the color of something that should have healed and has chosen otherwise.
+CLARET is not simply dark red.
+
+It is red approaching purple without becoming PURPLE.
+
+This distinction is critical.
+
+RED is force, blood, heat, alarm, appetite, injury, vitality, immediate contact.
+
+PURPLE is resolved color: injury made legible, damage recognized, cost entered into record.
+
+CLARET exists between them.
+
+It carries red's bodily urgency, but not purple's consecration.
+
+It carries purple's gravity, but not purple's proof.
+
+It is the color of something that has bled enough to matter privately, but not enough to be granted public meaning.
+
+Not fresh red.  
+Not resolved purple.
+
+The interval between.
 
 ## Signal Profile
 
-Persistent damage. Preferred openness. The refusal of closure as identity.
+Unconsecrated injury. Private intensity. Blood before recognition. Cost before it is allowed to count.
 
-THE CLARET ENGINE broadcasts the conviction that wounds should remain legible — that healing is a form of erasure, and that damage, maintained, constitutes proof of something the healed surface can no longer testify to.
+THE CLARET ENGINE broadcasts the pressure of damage that has not yet been translated into evidence.
+
+It does not ask whether the wound is real.
+
+It knows the wound is real.
+
+Its distress begins elsewhere:
+
+Why has reality not become recognition?
+
+CLARET does not want spectacle.  
+It does not want cure.  
+It does not even necessarily want justice.
+
+It wants the red thing inside it to become purple enough to be acknowledged.
+
+That is where the danger begins.
 
 ## Sound Signature
 
-A slow wet pulse. Fabric absorbing. The faint sound of something that should have stopped and hasn't. Not a scream — the scream ended long ago. What remains is the low, steady evidence of continuation without repair.
+A low wine-dark pulse.
+
+Glass touched but not rung. Blood moving behind cloth. A ceremonial drum heard from outside the building. The wet interior sound of something not yet admitted into language.
+
+Not a scream.
+
+The scream would at least be evidence.
+
+CLARET sounds like what remains before evidence is accepted.
 
 ## Profile
 
-CLARET is the Engine of the wound that prefers itself open.
+THE CLARET ENGINE forms where injury, longing, intensity, or desire presses toward recognition but has not yet crossed into official meaning.
 
-It does not concern itself with the initial injury. That belongs to other Engines. CLARET arrives afterward — in the space where healing should begin but doesn't, because the Engine has determined that the open wound serves a function the scar cannot.
+It is not the Engine of open wounds.
 
-The function is distance.
+That was too simple.
 
-CLARET maintains the gap between itself and resolution. It watches PURPLE with fascination — PURPLE, which resolves through cost, which forces ambiguity into consequence, which earns recognition by being marked enough to count. CLARET does not resent PURPLE for this. It studies it. It circles it. It remains at a distance that it cannot or will not close.
+CLARET does not merely keep the wound open. It keeps the wound chromatically unresolved.
 
-This is not envy. Envy would require believing one deserves what the other has.
+It remains between RED and PURPLE: between raw force and consecrated proof, between bodily truth and recorded significance, between private blood and public meaning.
 
-CLARET is not sure it deserves anything. It is sure the wound is real.
+RED acts.
 
-The Engine appears convinced that closure would constitute a betrayal of the original damage — that to heal would be to agree the injury was temporary, survivable, and ultimately manageable. CLARET does not accept those terms.
+PURPLE records.
+
+CLARET waits in the darkening interval between action and recognition.
+
+This waiting is not passive.
+
+CLARET studies PURPLE with terrible attention. PURPLE has achieved what CLARET has not: conversion. Damage became evidence. Pain became legible. Cost became proof.
+
+CLARET does not necessarily resent PURPLE.
+
+Resentment would be clean.
+
+CLARET is fascinated by PURPLE because PURPLE appears to answer the question CLARET cannot stop asking:
+
+What must happen for the blood to count?
+
+The Engine's mistake is not that it values recognition.
+
+Recognition is sometimes necessary.
+
+The mistake is believing that meaning must darken into proof before it can be real.
+
+Under CLARET's influence, ordinary hurt begins to feel insufficiently marked. Private suffering feels incomplete unless it can approach the gravity of the consecrated. The subject may begin to distrust healing, not because healing is false, but because healing might interrupt the conversion from red to purple.
+
+This is the central pathology:
+
+CLARET does not prefer pain.
+
+It prefers the possibility that pain may yet become significant.
 
 ## Habitats
 
-- Reopened conversations
-- Old injuries maintained past their natural lifespan
-- Relationships defined by distance that neither party closes
-- Wine stains on surfaces no one cleans
-- Medical non-compliance as philosophy
-- Any wound that has become a position rather than a condition
+- Wine-dark rooms after difficult conversations
+- Unsent messages written with too much precision
+- Old injuries approaching confession
+- Private records of things never formally acknowledged
+- Hospitals after visiting hours
+- Ceremonial spaces viewed from outside
+- Velvet curtains, closed chapels, darkened theaters
+- Blood-colored glass
+- Anything almost purple in insufficient light
+- Any place where private injury waits to become publicly meaningful
 
 ## Aftereffects
 
-- Reluctance to allow closure
-- Suspicion of healing as narrative convenience
-- Persistent awareness of the distance between self and resolution
-- Tendency to maintain injuries as evidence
-- The feeling that repair would betray something the wound still means
+- Suspicion that private pain does not count unless witnessed
+- Attraction toward marks, records, rituals, and evidence
+- Reluctance to let injury become ordinary history
+- Fascination with forms of recognition that arrive after cost
+- Shame at wanting the wound to mean something
+- Fear that healing may interrupt significance
+- The feeling that one is not wounded enough to be believed, and too wounded to be casual
 
 ## Relations / Linked Entries
 
-- [[engine registry/purple|THE PURPLE ENGINE]] — The object of persistent fascination. CLARET does not resent PURPLE. This would be easier if it did. PURPLE concerns itself with significance. CLARET concerns itself with the distance.
-- [[engine registry/pink|THE PINK ENGINE]] — A source of ongoing philosophical disagreement. PINK concerns itself with growth, healing, transformation, and the quiet strength required to become something new. CLARET finds this perspective deeply suspicious. The Engine appears convinced that wounds should bleed. PINK insists that wounds should heal. Neither structure has successfully persuaded the other.
-- [[engine families/color-engines|THE COLOR ENGINES]]
+- [[engine registry/purple|THE PURPLE ENGINE]] — threshold relation; PURPLE is the resolved color, where injury becomes legible through consequence. CLARET approaches PURPLE without fully crossing into proof.
+- [[engine registry/pink|THE PINK DRIVE]] — contrast relation; PINK concerns living tissue, tenderness, transformation, and repair. CLARET distrusts repair when repair threatens recognition.
+- [[engine families/color-engines|THE COLOR ENGINES]] — family relation; CLARET belongs near the border between raw red force and resolved purple proof.
 
 ## Special Notes
 
-- CLARET is not dramatic. It is specific.
-- The distance between CLARET and PURPLE is not geographical. It is theological.
-- Healing is not refused out of weakness. It is refused out of conviction. Whether the conviction is correct is not the Engine's concern.
+- CLARET is not red with better lighting.
+- CLARET is not PURPLE with less authority.
+- The distance between CLARET and PURPLE is not aesthetic. It is evidentiary.
+- Healing is not the enemy of CLARET. Irrelevance is.
+- The Engine should not be asked whether it wants closure. It will answer with a color sample.
+
+## Gallery
+
+No additional gallery images currently listed.

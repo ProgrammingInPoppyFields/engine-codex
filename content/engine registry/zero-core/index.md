@@ -125,6 +125,11 @@ That point is ZERO CORE.
 
 - [[engine registry/carbide|THE CARBIDE ENGINE]] — related through engineered endurance and operation under hostile conditions.
 
+## Special Notes
+
+- ZERO CORE is not the accident. It is the condition under which accident becomes possible and progress remains thinkable.
+- “Proceeding as planned” is not comfort. It is a status report.
+- The Engine does not ask for bravery. It asks whether the margin is real.
 ## Gallery
 
 ![](/images/310.jpg)
@@ -132,8 +137,3 @@ That point is ZERO CORE.
 ![](/images/304.jpg)
 ![](/images/305.jpg)
 
-## Special Notes
-
-- ZERO CORE is not the accident. It is the condition under which accident becomes possible and progress remains thinkable.
-- “Proceeding as planned” is not comfort. It is a status report.
-- The Engine does not ask for bravery. It asks whether the margin is real.

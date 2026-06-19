@@ -59,7 +59,8 @@ The universe calls all of them dust.
 
 ## Gallery
 
-<!-- ![SAND ↔ DUST gallery image 2](/images/interactions/sand-dust/2.png) -->
+
+Empty for now.
 
 ## Linked Entries
 

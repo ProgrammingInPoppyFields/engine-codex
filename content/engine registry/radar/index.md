@@ -71,6 +71,12 @@ This makes it indispensable to safety, warfare, weather prediction, and navigati
 
 - [[engine families/emanation-engines|THE EMANATION ENGINES]]
 
+## Special Notes
+
+- RADAR does not see. It asks, and interprets what returns.
+- Stealth technology is the art of not answering.
+- The green sweep is one of the most honest clocks in human technology: it shows you what exists right now, then forgets.
+
 ## Gallery
 
 <div style="display: flex; gap: 1rem; align-items: flex-start;">
@@ -112,8 +118,3 @@ This makes it indispensable to safety, warfare, weather prediction, and navigati
   </div>
 </div>
 
-## Special Notes
-
-- RADAR does not see. It asks, and interprets what returns.
-- Stealth technology is the art of not answering.
-- The green sweep is one of the most honest clocks in human technology: it shows you what exists right now, then forgets.

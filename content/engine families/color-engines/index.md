@@ -7,8 +7,6 @@ tags:
 
 # THE COLOR ENGINES
 
-![THE COLOR ENGINES](/images/color-engines/1.png)
-
 > Color as pressure, threshold, perception, proof, and unresolved meaning.
 
 ## Aliases

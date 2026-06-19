@@ -79,13 +79,13 @@ It is the Engine of “start here, even badly.”
 - [[engine registry/diamond|THE DIAMOND ENGINE]] — related through carbon; graphite marks, diamond insists.
 - [[engine registry/glass|THE GLASS ENGINE]] — related through surfaces, trace, and legibility.
 
+## Special Notes
+
+- GRAPHITE does not mind being erased. It knows the indentation remains.
+- Many permanent things began as something smudged.
 ## Gallery
 
 ![GRAPHITE gallery image 2](/images/88.jpg)
 ![GRAPHITE gallery image 3](/images/89.jpg)
 ![GRAPHITE gallery image 4](/images/91.jpg)
 
-## Special Notes
-
-- GRAPHITE does not mind being erased. It knows the indentation remains.
-- Many permanent things began as something smudged.

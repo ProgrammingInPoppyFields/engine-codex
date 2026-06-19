@@ -66,15 +66,14 @@ Close the book.
 
 No known relations currently listed.
 
+## Special Notes
+
+- No.
+- The taxonomy has filed a complaint.
+- If this page appears longer than expected, that is already a problem.
 ## Gallery
 
 <!-- No additional gallery images currently listed. -->
 
 Empty for now.
 
-
-## Special Notes
-
-- No.
-- The taxonomy has filed a complaint.
-- If this page appears longer than expected, that is already a problem.

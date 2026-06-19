@@ -72,6 +72,12 @@ SATELLITE is the Engine of global reach at the cost of proximity. Everything is 
 
 - [[engine families/emanation-engines|THE EMANATION ENGINES]]
 
+## Special Notes
+
+- SATELLITE does not know your name. It knows your coordinates.
+- The lag is not a flaw. It is honesty about distance.
+- Most people use satellite infrastructure daily and have never looked up to find it.
+
 ## Gallery
 
 <div style="display: flex; gap: 1rem; align-items: flex-start;">
@@ -96,9 +102,3 @@ SATELLITE is the Engine of global reach at the cost of proximity. Everything is 
   </div>
 </div>
 
-
-## Special Notes
-
-- SATELLITE does not know your name. It knows your coordinates.
-- The lag is not a flaw. It is honesty about distance.
-- Most people use satellite infrastructure daily and have never looked up to find it.

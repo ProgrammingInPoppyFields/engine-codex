@@ -6,7 +6,7 @@ tags: []
 
 # UNRESOLVED ENTITIES
 
-<!-- ![UNRESOLVED ENTITIES](/images/unresolved-entities/1.png) -->
+<!--  -->
 
 > Not every structure becomes an Engine.
 

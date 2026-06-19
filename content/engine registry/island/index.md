@@ -95,11 +95,11 @@ ISLAND is building something stable enough to face it.
 
 - [[engine registry/isolation|THE ISOLATION ENGINE]] — related counterpart; ISLAND is constructive independence, while ISOLATION is separation under pressure.
 
+## Special Notes
+
+- A place can be alone and still be generous.
 ## Gallery
 
 ![ISLAND gallery image 2](/images/132.jpg)
 ![ISLAND gallery image 3](/images/133.jpg)
 
-## Special Notes
-
-- A place can be alone and still be generous.

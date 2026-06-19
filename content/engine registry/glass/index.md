@@ -86,6 +86,11 @@ GLASS is dangerous because it seems like it is not holding anything back.
 - [[engine registry/ceramic|THE CERAMIC ENGINE]] — related through fracture, vessels, and breakable structure.
 - [[engine registry/graphite|THE GRAPHITE ENGINE]] — related through surfaces, marks, and visibility.
 
+## Special Notes
+
+- GLASS is not invisible. It is just good at being ignored until impact.
+- A window is a wall that learned optics.
+- Transparency has done an astonishing job convincing people it is the same as honesty.
 ## Gallery
 
 <div style="display: flex; gap: 1rem; align-items: flex-start;">
@@ -110,8 +115,3 @@ GLASS is dangerous because it seems like it is not holding anything back.
   </div>
 </div>
 
-## Special Notes
-
-- GLASS is not invisible. It is just good at being ignored until impact.
-- A window is a wall that learned optics.
-- Transparency has done an astonishing job convincing people it is the same as honesty.

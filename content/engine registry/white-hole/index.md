@@ -93,6 +93,11 @@ BLACK HOLE says: **So be it.**
 
 - [[engine registry/black-hole|THE BLACK HOLE ENGINE]] — paired counterpart; receives what WHITE HOLE emits.
 
+## Special Notes
+
+- WHITE HOLE has never heard of “scope control.”
+- It is not brainstorming. It is the thing brainstorming is afraid of becoming.
+- The Engine considers all output morally equivalent until some other poor structure has to deal with it.
 ## Gallery
 
 <div style="display: flex; gap: 1rem; align-items: flex-start;">
@@ -101,7 +106,7 @@ BLACK HOLE says: **So be it.**
     <p><strong></strong></p>
   </div>
   <div style="flex: 1;">
-    <img src="/images/276.jpg">
+    
     <p><strong></strong></p>
   </div>
   <div style="flex: 1;">
@@ -110,8 +115,3 @@ BLACK HOLE says: **So be it.**
   </div>
 </div>
 
-## Special Notes
-
-- WHITE HOLE has never heard of “scope control.”
-- It is not brainstorming. It is the thing brainstorming is afraid of becoming.
-- The Engine considers all output morally equivalent until some other poor structure has to deal with it.

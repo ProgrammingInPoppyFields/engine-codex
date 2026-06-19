@@ -6,7 +6,7 @@ tags: []
 
 # THE WREATH-EATER
 
-<!-- ![THE WREATH-EATER](/images/wreath-eater/1.png) -->
+<!--  -->
 
 > The thing that wants to be mourned.
 
@@ -386,9 +386,9 @@ That is the fall.
 
 Empty for now.
 
-<!-- ![WREATH-EATER gallery image 2](/images/wreath-eater/2.png) -->
+<!--  -->
 
-<!-- ![WREATH-EATER gallery image 3](/images/wreath-eater/3.png) -->
+<!--  -->
 
 ## Special Notes
 

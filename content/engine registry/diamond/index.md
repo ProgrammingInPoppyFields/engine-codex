@@ -80,6 +80,11 @@ This is not necessarily a mercy.
 - [[engine registry/graphite|THE GRAPHITE ENGINE]] — related through carbon; graphite marks, diamond cuts.
 - [[engine registry/glass|THE GLASS ENGINE]] — related through clarity, refraction, and hard surfaces.
 
+## Special Notes
+
+- DIAMOND is not pure. It is organized pressure.
+- The sparkle is not proof of kindness.
+- Some wants are beautiful. Some wants are load-bearing. Some wants are knives.
 ## Gallery
 
 <div style="display: flex; gap: 1rem; align-items: flex-start;">
@@ -99,9 +104,3 @@ This is not necessarily a mercy.
 
 Empty for now.
 
-
-## Special Notes
-
-- DIAMOND is not pure. It is organized pressure.
-- The sparkle is not proof of kindness.
-- Some wants are beautiful. Some wants are load-bearing. Some wants are knives.

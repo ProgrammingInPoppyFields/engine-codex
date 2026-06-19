@@ -86,6 +86,11 @@ DUST is devastating because it is true.
 - [[engine registry/sand|THE SAND ENGINE]] — sibling finality; sand is young, abrasive, and bright.
 - [[engine registry/ash|THE ASH ENGINE]] — sibling finality; ash is fire’s cooled remainder.
 
+## Special Notes
+
+- DUST is not evidence that nothing happened. It is evidence that everything keeps happening.
+- Stardust sounds romantic until it is on your baseboards.
+- DUST is the only one in the trio old enough to be funny about it.
 ## Gallery
 
 <div style="display: flex; gap: 1rem; align-items: flex-start;">
@@ -99,8 +104,3 @@ DUST is devastating because it is true.
   </div>
 </div>
 
-## Special Notes
-
-- DUST is not evidence that nothing happened. It is evidence that everything keeps happening.
-- Stardust sounds romantic until it is on your baseboards.
-- DUST is the only one in the trio old enough to be funny about it.

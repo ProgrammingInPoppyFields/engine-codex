@@ -80,6 +80,11 @@ It is what remains when the event is over and the body of the event has become p
 - [[engine registry/sand|THE SAND ENGINE]] — sibling finality; sand is erosion and abrasion.
 - [[engine registry/dust|THE DUST ENGINE]] — sibling finality; dust is age, dispersal, and smallest memory.
 
+## Special Notes
+
+- ASH is not fire’s victory. It is fire’s paperwork.
+- It is very easy to disturb ASH. This does not make it weak.
+- Some remains are light because the event was heavy.
 ## Gallery
 
 <div style="display: flex; gap: 1rem; align-items: flex-start;">
@@ -100,8 +105,3 @@ It is what remains when the event is over and the body of the event has become p
   </div>
 </div>
 
-## Special Notes
-
-- ASH is not fire’s victory. It is fire’s paperwork.
-- It is very easy to disturb ASH. This does not make it weak.
-- Some remains are light because the event was heavy.

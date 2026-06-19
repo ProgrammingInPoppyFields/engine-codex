@@ -72,6 +72,12 @@ In emergency, RADIO becomes essential. When networks fail, towers fall, and scre
 
 - [[engine families/emanation-engines|THE EMANATION ENGINES]]
 
+## Special Notes
+
+- RADIO does not care if you are listening. It is always talking.
+- Static is not silence. It is the sound of everything that isn't a station.
+- The last thing most emergency systems rely on is radio. This is not nostalgia. It is physics.
+
 ## Gallery
 
 <div style="display: flex; gap: 1rem; align-items: flex-start;">
@@ -92,8 +98,3 @@ In emergency, RADIO becomes essential. When networks fail, towers fall, and scre
   </div>
 </div>
 
-## Special Notes
-
-- RADIO does not care if you are listening. It is always talking.
-- Static is not silence. It is the sound of everything that isn't a station.
-- The last thing most emergency systems rely on is radio. This is not nostalgia. It is physics.

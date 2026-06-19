@@ -103,17 +103,16 @@ It does not ask whether a choice matters. It assumes all choices matter too much
 - [[engine registry/indigo|THE INDIGO ENGINE]] — sibling uncertainty; INDIGO is unresolved category, TURQUOISE is unresolved choice.
 - [[engine registry/pink|THE PINK ENGINE]] — related through charged transformation, vulnerability, and becoming under pressure.
 
-## Gallery
-
-<!-- ![TURQUOISE gallery image 2](/images/203.jpg) -->
-<!-- ![TURQUOISE gallery image 3](/images/204.jpg) -->
-<!-- ![TURQUOISE gallery image 4](/images/turquoise/4.png) -->
-
-Empty for now.
-
-
 ## Special Notes
 
 - TURQUOISE does not help you decide. It makes all options brighter.
 - It is technically possible to stand at a crossroads without becoming dramatic. TURQUOISE has not tested this.
 - Every unchosen path files a tiny complaint somewhere in the field.
+## Gallery
+
+<!-- ![TURQUOISE gallery image 2](/images/203.jpg) -->
+<!-- ![TURQUOISE gallery image 3](/images/204.jpg) -->
+<!--  -->
+
+Empty for now.
+
