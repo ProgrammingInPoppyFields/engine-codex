@@ -4,14 +4,12 @@ title: MAUVE
 classification: Engine
 tags:
 
-* color-engines
-* color-of-almost
+ - color-engines
+ - color-of-almost
 
 ---
 
 # THE MAUVE ENGINE
-
-![](/images/000.jpg)
 
 > The color of a wound still burning behind its own dust.
 
