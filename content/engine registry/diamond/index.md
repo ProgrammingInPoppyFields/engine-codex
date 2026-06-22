@@ -96,6 +96,17 @@ This is not necessarily a mercy.
 
 <div class="gallery-row">
   <div class="gallery-item">
+    <img src="/images/443.jpg">
+    <p><strong></strong></p>
+  </div>
+  <div class="gallery-item">
+    <img src="/images/416.jpg">
+    <p><strong></strong></p>
+  </div>
+</div>
+
+<div class="gallery-row">
+  <div class="gallery-item">
     <img src="/images/44.jpg">
     <p><strong></strong></p>
   </div>
