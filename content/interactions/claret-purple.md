@@ -4,8 +4,8 @@ title: CLARET ↔ PURPLE
 classification: Interaction
 tags:
 
-* poem
-* one-shot
+ - poem
+ - one-shot
 
 ---
 
