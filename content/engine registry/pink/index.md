@@ -98,6 +98,7 @@ They are part of the same living system.
 - PINK is not cute. PINK is vascular.
 - Soft tissue is still tissue. Tenderness is still structure.
 - The body has no interest in aesthetic debates. It is busy continuing.
+
 ## Gallery
 
 ![PINK gallery image 2](/images/167.jpg)
