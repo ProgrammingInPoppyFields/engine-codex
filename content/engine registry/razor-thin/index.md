@@ -12,7 +12,7 @@ tags:
 
 # THE RAZOR-THIN ENGINE
 
-![](/images/459.jpg)
+![](/images/459.png)
 
 > Stability as a blade one is expected to stand on politely.
 

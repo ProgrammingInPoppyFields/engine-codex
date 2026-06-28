@@ -1,5 +1,5 @@
 ---
-title: MUSEUM HOURS
+title: MUSEUM AFTER-HOURS
 tags:
   - one-shot
 ---
