@@ -1,7 +1,8 @@
 #!/usr/bin/env node
 // Patches Quartz plugins before build:
-// 1. Graph: show global graph on homepage
-// 2. Explorer: highlight active folder
+// 1. Graph: swap in white glowing nodes (scripts/graph-glow.inline.js)
+// 2. Graph: show global graph on homepage
+// 3. Explorer: highlight active folder
 // Clears build cache so changes take effect.
 // Safe to run multiple times — skips if already patched.
 
@@ -19,8 +20,40 @@ function clearCache() {
   cacheCleared = true
 }
 
-// --- Patch 1: Graph plugin — global graph on homepage ---
 const graphFile = join(process.cwd(), ".quartz", "plugins", "graph", "dist", "components", "index.js")
+
+// --- Patch 0: Graph plugin — white glowing nodes ---
+// The installed plugin is re-cloned by `npm run install-plugins` and lives under
+// the gitignored `.quartz/` dir, so behavior changes to it don't survive a reinstall
+// unless baked in here. This swaps the compiled inline render script for our own
+// build (white node fill + blurred glow halo per node) checked in at graph-glow.inline.js.
+try {
+  const glowMarker = 'BlurFilter({strength:6'
+  let graphContent = readFileSync(graphFile, "utf-8")
+
+  if (graphContent.includes(glowMarker)) {
+    console.log("[patch] Graph: glow nodes already patched")
+  } else {
+    const marker = "var graph_inline_default = `"
+    const start = graphContent.indexOf(marker)
+    const contentStart = start + marker.length
+    const end = graphContent.indexOf("`;", contentStart)
+
+    if (start !== -1 && end !== -1) {
+      const glowScript = readFileSync(join(process.cwd(), "scripts", "graph-glow.inline.js"), "utf-8")
+      graphContent = graphContent.slice(0, contentStart) + glowScript + graphContent.slice(end)
+      writeFileSync(graphFile, graphContent)
+      clearCache()
+      console.log("[patch] Graph: glow nodes applied")
+    } else {
+      console.log("[patch] Graph: inline script marker not found, skipping glow patch")
+    }
+  }
+} catch {
+  console.log("[patch] Graph: plugin not installed, skipping glow patch")
+}
+
+// --- Patch 1: Graph plugin — global graph on homepage ---
 try {
   let graphContent = readFileSync(graphFile, "utf-8")
 
