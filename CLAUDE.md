@@ -22,7 +22,7 @@
 ## Tags
 
 - Tags are lowercase, dash-separated
-- Approved tags: `first-engines`, `color-engines`, `material-engines`, `emanation-engines`, `contemporary-engines`, `aftermath-engines`, `molecular-engines`, `trinity-of-cognition`, `quartet-of-mattering`, `particulate-trio`, `color-of-almost`
+- Approved tags: `first-engines`, `color-engines`, `material-engines`, `emanation-engines`, `contemporary-engines`, `aftermath-engines`, `molecular-engines`, `primordial-engines`, `trinity-of-cognition`, `quartet-of-mattering`, `particulate-trio`, `color-of-almost`, `anomalous-entities`, `unverified-encounters`
 - No generic tags: `engine`, `drive`, `index`, `poem`, `interaction`, `resonance`, `unresolved-entity`
 - An engine can belong to multiple families (e.g. GRAY has `color-engines` + `contemporary-engines`)
 

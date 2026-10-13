@@ -3,7 +3,7 @@
 
 > A public archive of Engines, Drives, unresolved entities, and related phenomena.
 
-Visit the Codex
+[Visit the Codex](https://programminginpoppyfields.github.io/engine-codex/)
 
 ---
 
@@ -39,9 +39,9 @@ Stable phenomena with enough symbolic gravity to alter the field around them.
 
 Engine-like forces defined more by motion, pressure, compulsion, or transformation than by fixed architecture.
 
-### Engine Groups
+### Engine Families and Groups
 
-Clustered structures best understood as sets, trios, monoliths, or related operating states.
+Kinships and clustered structures best understood as families, sets, trios, quartets, or related operating states.
 
 ### Unresolved Entities
 
@@ -51,11 +51,55 @@ Proto-Engines, fallen forms, parasites, restricted phenomena, or symbolic struct
 
 ## Codex Structure
 
-txt content/   engines/     first/     unsung/     white-hole/     black-hole/     signal/     broadcast/     ...    groups/     trinity-of-cognition/     particulate-finalities/     four-monoliths/     ...    unresolved-entities/     clinger/     unbowed/     wreath-eater/     ...    images/     first/     unsung/     signal/     broadcast/     particulate-trio/     monoliths-of-mattering/     ... 
+```txt
+content/
+  intro/
+  engine families/
+    color-engines/
+    material-engines/
+    particulate-trio/
+    quartet-of-mattering/
+    trinity-of-cognition/
+    ...
 
-Each major entry typically includes:
+  engine registry/
+    abyssal/
+    black-hole/
+    first/
+    pink/
+    white-hole/
+    ...
 
-txt Material / Color Signal Profile Sound Signature Profile Habitats Aftereffects Relations / Linked Entries Gallery Special Notes 
+  unresolved entities/
+    clinger/
+    unbowed/
+    wreath-eater/
+    ...
+
+  interactions/
+    indigo-turquoise.md
+    sand-dust.md
+    ...
+
+  images/
+    1.jpg
+    2.jpg
+    ...
+```
+
+Each major Engine entry typically includes:
+
+```txt
+Material / Color
+Signal Profile
+Sound Signature
+Profile
+Habitats
+Aftereffects
+Relations / Linked Entries
+Gallery
+Special Notes
+```
 
 The archive is intentionally structured like a field guide, institutional report, memorial index, and mildly cursed filing system.
 
@@ -67,7 +111,9 @@ This Codex is built with Quartz and deployed through GitHub Pages.
 
 Live site:
 
-txt https://programminginpoppyfields.github.io/engine-codex/ 
+```txt
+https://programminginpoppyfields.github.io/engine-codex/
+```
 
 ---
 
@@ -75,15 +121,23 @@ txt https://programminginpoppyfields.github.io/engine-codex/
 
 Install dependencies:
 
-bash npm i 
+```bash
+npm i
+```
 
 Run local preview:
 
-bash npx quartz build --serve 
+```bash
+npx quartz build --serve
+```
 
 Push updates:
 
-bash git add . git commit -m "Update codex" git push origin main 
+```bash
+git add .
+git commit -m "Describe what changed"
+git push origin main
+```
 
 GitHub Actions will rebuild and deploy the site automatically.
 
@@ -99,7 +153,13 @@ A little funereal.
 
 The intended atmosphere is somewhere between:
 
-txt black marble archive terminal field manual museum wall text memorial plaque cosmic incident report 
+```txt
+black marble archive
+terminal field manual
+museum wall text
+memorial plaque
+cosmic incident report
+```
 
 No neon prophecy.  
 No cheerful blue links.  
